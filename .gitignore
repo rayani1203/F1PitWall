@@ -1,0 +1,13 @@
+imgui.ini
+# Build artifacts
+build/
+bin/
+*.o
+*.obj
+*.exe
+*.out
+*.dll
+*.so
+*.dylib
+# IDE files
+.vscode/

@@ -1,0 +1,9228 @@
+==== 2025-12-09 17:18:30 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:31 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:31 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:32 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:33 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:33 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:34 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:34 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:34 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:35 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:35 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:36 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:36 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:37 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:37 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:38 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:38 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:39 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:39 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:40 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:40 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:41 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:41 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:42 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:42 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:43 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:43 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:44 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:44 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:45 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:45 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:46 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:46 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:47 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:47 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:48 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:48 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:49 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:49 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:50 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:50 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:51 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:51 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:52 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:52 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:53 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:53 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:54 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:54 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:55 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:56 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:56 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:56 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:57 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:57 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:58 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:58 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:59 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:18:59 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:00 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:00 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:01 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:01 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:02 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:02 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:03 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:03 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:04 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:04 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:05 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:05 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:06 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:06 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:07 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:07 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:08 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:08 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:09 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:09 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:10 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:10 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:11 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:11 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:12 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:12 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:13 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:13 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:14 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:14 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:15 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:15 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:16 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:16 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:17 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:17 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:18 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:18 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:19 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:19 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:20 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:20 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:21 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:21 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:22 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:22 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:23 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:23 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:24 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:24 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:25 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:25 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:26 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:27 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:27 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:28 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:28 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:29 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:29 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:30 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:30 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:31 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:31 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:32 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:32 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:33 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:33 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:34 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:34 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:35 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:35 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:36 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:36 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:37 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:37 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:38 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:38 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:39 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:39 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:40 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:40 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:41 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:41 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:42 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:42 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:43 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:43 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:44 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:44 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:45 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:45 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:46 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:46 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:47 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:48 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:48 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:49 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:49 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:50 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:50 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:51 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:51 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:52 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:52 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:53 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:53 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:54 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:54 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:55 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:55 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:56 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:56 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:57 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:57 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:58 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:58 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:59 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:19:59 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:00 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:00 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:01 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:01 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:02 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:02 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:03 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:03 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:04 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:04 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:05 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:05 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:06 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:07 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:07 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:07 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:08 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:08 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:09 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:09 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:10 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:10 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:11 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:11 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:12 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:12 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:13 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:13 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:14 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:14 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:15 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:15 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:16 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:17 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:17 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:17 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:18 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:18 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:19 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:19 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:20 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:20 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:21 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:21 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:22 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:22 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:23 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:23 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:24 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:24 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:25 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:26 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:26 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:27 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:27 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:28 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:28 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:29 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:29 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:30 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:30 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:31 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:31 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:32 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:32 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:33 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:33 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:34 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:34 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:35 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:35 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:36 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:36 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:37 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:37 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:38 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:38 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:39 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:39 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:40 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:40 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:41 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:41 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:42 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:42 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:43 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:43 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:44 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:44 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:45 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:45 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:46 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:46 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:47 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:47 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:48 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:48 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:49 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:50 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:50 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:51 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:51 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:52 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:52 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:53 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:53 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:54 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:54 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:55 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:55 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:56 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:56 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:57 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:57 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:58 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:58 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:59 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:20:59 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:00 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:00 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:01 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:01 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:02 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:02 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:03 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:03 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:04 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:04 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:05 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:05 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:06 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:06 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:07 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:07 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:08 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:08 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:09 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:10 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:11 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:11 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:12 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:12 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:13 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:14 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:14 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:15 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:15 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:16 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:16 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:17 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:17 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:18 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:18 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:19 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:19 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:20 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:20 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:30 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:30 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:31 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:31 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:32 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:32 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:33 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:33 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:34 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:34 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:35 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:35 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:36 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:36 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:37 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:37 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:38 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:38 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:39 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:39 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:40 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:40 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:41 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:41 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:42 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:42 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:43 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:43 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:44 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:44 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:45 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:45 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:46 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:46 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:47 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:47 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:48 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:48 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:49 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:49 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:50 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:50 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:51 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:51 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:52 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:52 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:53 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:53 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:54 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:54 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:55 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:55 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:56 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:56 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:57 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:58 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:58 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:59 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:21:59 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:00 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:00 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:01 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:01 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:02 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:03 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:03 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:04 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:04 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:05 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:05 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:06 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:06 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:07 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:07 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:08 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:08 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:09 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:09 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:10 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:10 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:11 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:11 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:12 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:12 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:13 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:13 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:14 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:14 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:15 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:15 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:16 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:16 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:17 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:17 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:18 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:18 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:19 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:20 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:20 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:21 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:22 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:22 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:23 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:23 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:24 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:24 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:25 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:25 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:26 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:39 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:40 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:40 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:41 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:42 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:42 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:42 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:43 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:43 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:44 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:44 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:45 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:45 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:46 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:46 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:47 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:47 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:48 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:48 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:49 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:49 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:51 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:51 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:52 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:52 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:52 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:53 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:53 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:54 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:55 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:55 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:55 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:56 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:56 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:57 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:22:57 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:04 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:05 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:05 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:06 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:06 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:07 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:07 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:08 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:08 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:09 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:09 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:10 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:10 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:11 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:11 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:12 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:12 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:13 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:13 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:14 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:14 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:15 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:15 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:16 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:16 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:17 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:17 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:18 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:19 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:21 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:21 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:22 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:22 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:22 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:23 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:23 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:28 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:29 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:29 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:29 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:30 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:30 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:31 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:31 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:32 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:33 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:33 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:34 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:34 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:35 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:35 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:36 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:37 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:37 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:38 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:39 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:40 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:40 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:41 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:41 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:42 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:42 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:43 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:44 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:45 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:45 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:46 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:46 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:47 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:47 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:48 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:48 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:49 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:50 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:50 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:51 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:51 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:52 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:52 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:53 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:53 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:54 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:54 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:55 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:55 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:56 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:56 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:57 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:57 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:58 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:58 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:59 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:23:59 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:00 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:00 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:01 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:02 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:02 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:03 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:03 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:04 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:04 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:05 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:06 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:07 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:07 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:08 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:09 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:10 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:10 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:11 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:11 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:12 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:12 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:13 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:14 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:14 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:15 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:16 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:16 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:17 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:17 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:18 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:18 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:19 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:19 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:20 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:20 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:21 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:21 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:23 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:24 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:24 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:25 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:25 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:26 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:27 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:27 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:29 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:30 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:30 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:31 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:31 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:32 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:32 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:33 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:33 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:34 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:34 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:35 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:36 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:36 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:37 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:38 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:38 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:39 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:39 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:40 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:40 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:41 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:41 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:42 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:42 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:43 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:43 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:44 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:45 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:45 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:46 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:46 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:47 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:47 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:48 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:48 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:49 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:49 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:50 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:50 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:51 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:51 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:52 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:52 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:53 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:53 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:54 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:54 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:55 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:55 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:56 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:56 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:57 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:57 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:58 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:58 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:59 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:24:59 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:00 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:00 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:01 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:01 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:02 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:02 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:03 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:03 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:04 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:04 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:05 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:05 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:06 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:06 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:07 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:07 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:08 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:10 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:11 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:11 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:12 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:13 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:14 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:14 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:14 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:15 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:16 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:16 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:16 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:18 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:19 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:21 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:26 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:26 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:27 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:28 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:29 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:30 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:31 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:33 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:35 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:37 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:39 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:40 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:40 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:40 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:40 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:41 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:41 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:42 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:42 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:43 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:44 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:44 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:45 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:45 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:46 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:46 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:47 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:47 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:48 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:48 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:49 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:49 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:50 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:50 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:51 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:51 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:52 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:52 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:53 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:53 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:54 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:54 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:55 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:55 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:56 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:57 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:57 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:58 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:58 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:59 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:25:59 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:26:00 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:26:00 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:26:01 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:26:01 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:26:02 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:26:02 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:26:03 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:26:03 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:26:04 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:26:04 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
+==== 2025-12-09 17:26:05 ====
+Session:
+  Weather: 0
+  Track Temp: 42 C
+  Air Temp: 29 C
+  Total Laps: 1
+  Track Length: 5280 m
+  Session Type: 18
+  Session Time Left: 0 s
+  Session Duration: 600 s
+  Pit Speed Limit: 80 km/h
+
