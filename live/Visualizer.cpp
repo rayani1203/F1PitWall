@@ -7,6 +7,7 @@
 #include <implot.h>
 #include <iostream>
 #include <cmath>
+#include <string>
 
 Visualizer::Visualizer(int windowWidth, int windowHeight)
     : m_windowWidth(windowWidth), m_windowHeight(windowHeight), m_window(nullptr) {
@@ -83,12 +84,18 @@ void Visualizer::updatePlotData() {
     m_brakeHistory.clear();
     m_steerHistory.clear();
     m_timeHistory.clear();
+    m_clutchHistory.clear();
+    m_drsHistory.clear();
+    m_gearHistory.clear();
 
     for (size_t i = 0; i < count; i++) {
         m_throttleHistory.push_back(samples[i].throttle);
         m_brakeHistory.push_back(samples[i].brake);
         m_steerHistory.push_back(samples[i].steer);
-        m_timeHistory.push_back(static_cast<double>(i) * 0.016);  // ~60Hz, 16ms per frame
+        m_clutchHistory.push_back(static_cast<int>(samples[i].clutch));
+        m_drsHistory.push_back(static_cast<int>(samples[i].drs));
+        m_gearHistory.push_back(static_cast<int>(samples[i].gear));
+        m_timeHistory.push_back(samples[i].timestampMs / 1000.0);  // Convert ms to seconds
     }
 }
 
@@ -99,21 +106,102 @@ void Visualizer::drawUI() {
     ImGui::Begin("Driver Inputs");
 
     if (ImPlot::BeginPlot("Throttle / Brake / Steer", ImVec2(-1, 400))) {
-        // Setup axes with auto-fitting for Y and manual X to show latest data
-        ImPlot::SetupAxes("Sample", "Value", ImPlotAxisFlags_None, ImPlotAxisFlags_AutoFit);
+        // Setup axes with time X axis and auto-fit Y
+        ImPlot::SetupAxes("Time (s)", "Value", ImPlotAxisFlags_None, ImPlotAxisFlags_AutoFit);
         ImPlot::SetupLegend(ImPlotLocation_North, ImPlotLegendFlags_Outside);
 
-        if (!m_throttleHistory.empty()) {
-            int numSamples = (int)m_throttleHistory.size();
-            
-            // Pan to show latest data on the right side (last 300 samples)
-            // Must be called BEFORE PlotLine
-            int startSample = std::max(0, numSamples - 300);
-            ImPlot::SetupAxisLimits(ImAxis_X1, startSample - 10, numSamples + 10, ImGuiCond_Always);
-            
-            ImPlot::PlotLine("Throttle", m_throttleHistory.data(), numSamples);
-            ImPlot::PlotLine("Brake", m_brakeHistory.data(), numSamples);
-            ImPlot::PlotLine("Steer", m_steerHistory.data(), numSamples);
+        if (!m_timeHistory.empty()) {
+            int numSamples = (int)m_timeHistory.size();
+
+            // Compute seconds-ago X values so newest point is 0 and older points are negative
+            std::vector<double> xvals(numSamples);
+            double tEnd = m_timeHistory.back();
+            for (int i = 0; i < numSamples; ++i) {
+                xvals[i] = m_timeHistory[i] - tEnd; // negative or zero
+            }
+
+            double xmin = xvals.front(); // oldest (most negative)
+            double xmax = 0.0; // newest
+            // Must set axis limits before plotting
+            ImPlot::SetupAxisLimits(ImAxis_X1, xmin, xmax, ImGuiCond_Always);
+            // Ensure Y axis leaves room for markers slightly above 1.0
+            ImPlot::SetupAxisLimits(ImAxis_Y1, -1.2, 1.3, ImGuiCond_Always);
+
+            // Plot using seconds-ago X values
+            ImPlot::PlotLine("Throttle", xvals.data(), m_throttleHistory.data(), numSamples);
+            ImPlot::PlotLine("Brake", xvals.data(), m_brakeHistory.data(), numSamples);
+            ImPlot::PlotLine("Steer", xvals.data(), m_steerHistory.data(), numSamples);
+
+            // Build marker lists for gear-change events (detect when gear differs from previous sample)
+            std::vector<double> gearUpX, gearUpY;
+            std::vector<double> gearDownX, gearDownY;
+            for (int i = 1; i < numSamples; ++i) {
+                int prev = m_gearHistory[i-1];
+                int cur = m_gearHistory[i];
+                if (cur != prev) {
+                    double x = xvals[i];
+                    if (cur > prev) {
+                        gearUpX.push_back(x);
+                        gearUpY.push_back(1.15);
+                    } else {
+                        gearDownX.push_back(x);
+                        gearDownY.push_back(1.15);
+                    }
+                }
+            }
+
+            // Draw DRS as shaded horizontal bands spanning contiguous DRS-on ranges
+            ImVec2 plotPos = ImPlot::GetPlotPos();
+            ImVec2 plotSize = ImPlot::GetPlotSize();
+            double xMin = xmin;
+            double xMax = xmax;
+            double yMin = -1.2;
+            double yMax = 1.3;
+            auto xToPixel = [&](double x) {
+                return plotPos.x + (float)((x - xMin) / (xMax - xMin) * plotSize.x);
+            };
+            auto yToPixel = [&](double y) {
+                // ImPlot's origin is top-left of plot area; invert Y mapping
+                return plotPos.y + plotSize.y - (float)((y - yMin) / (yMax - yMin) * plotSize.y);
+            };
+
+            ImDrawList* plotDL = ImPlot::GetPlotDrawList();
+            const float bandTop = yToPixel(1.05);
+            const float bandBottom = yToPixel(0.85);
+            // Scan for contiguous DRS-on ranges
+            int idx = 0;
+            while (idx < numSamples) {
+                // find start
+                while (idx < numSamples && m_drsHistory[idx] == 0) ++idx;
+                if (idx >= numSamples) break;
+                int start = idx;
+                while (idx < numSamples && m_drsHistory[idx] != 0) ++idx;
+                int end = idx - 1;
+
+                double xStart = xvals[start];
+                double xEnd = xvals[end];
+                float px0 = xToPixel(xStart);
+                float px1 = xToPixel(xEnd);
+                // Clamp within plot region
+                if (px1 < plotPos.x) continue;
+                if (px0 > plotPos.x + plotSize.x) continue;
+                if (px0 < plotPos.x) px0 = plotPos.x;
+                if (px1 > plotPos.x + plotSize.x) px1 = plotPos.x + plotSize.x;
+
+                ImU32 fillCol = ImGui::GetColorU32(ImVec4(0.0f, 0.6f, 1.0f, 0.12f));
+                ImU32 borderCol = ImGui::GetColorU32(ImVec4(0.0f, 0.6f, 1.0f, 0.35f));
+                plotDL->AddRectFilled(ImVec2(px0, bandTop), ImVec2(px1, bandBottom), fillCol);
+                plotDL->AddRect(ImVec2(px0, bandTop), ImVec2(px1, bandBottom), borderCol, 0.0f, 0, 1.0f);
+            }
+
+            if (!gearUpX.empty()) {
+                ImPlot::SetNextMarkerStyle(ImPlotMarker_Square, 6, ImVec4(0.0f,0.8f,0.0f,1.0f));
+                ImPlot::PlotScatter("Upshift", gearUpX.data(), gearUpY.data(), (int)gearUpX.size());
+            }
+            if (!gearDownX.empty()) {
+                ImPlot::SetNextMarkerStyle(ImPlotMarker_Square, 6, ImVec4(1.0f,0.2f,0.2f,1.0f));
+                ImPlot::PlotScatter("Downshift", gearDownX.data(), gearDownY.data(), (int)gearDownX.size());
+            }
         }
 
         ImPlot::EndPlot();
@@ -134,6 +222,109 @@ void Visualizer::drawUI() {
         ImGui::Text("Waiting for telemetry data...");
     }
 
+    // Car Inputs live window - show latest full telemetry sample (peekLatest)
+    {
+        LiveInputSample latest;
+        if (LiveTelemetry::peekLatest(latest)) {
+            ImGui::Begin("Car Inputs");
+            // Big speed + gear
+            // Prepare gear label
+            std::string gearLabel;
+            if (latest.gear == -1) gearLabel = "R";
+            else if (latest.gear == 0) gearLabel = "N";
+            else gearLabel = std::to_string(static_cast<int>(latest.gear));
+
+            ImGui::PushFont(ImGui::GetFont());
+            ImGui::Text("%u km/h", latest.speed);
+            ImGui::SameLine(200);
+            ImGui::Text("Gear: %s", gearLabel.c_str());
+            ImGui::PopFont();
+
+            // RPM bar (colored, with redline)
+            ImGui::Separator();
+            const int redline = 11500; // approximate
+            float rpmNorm = (float)latest.engineRPM / (float)redline;
+            if (rpmNorm > 1.0f) rpmNorm = 1.0f;
+            ImU32 rpmColor = ImGui::GetColorU32(ImVec4(rpmNorm, 1.0f - rpmNorm, 0.0f, 1.0f));
+            ImGui::Text("RPM: %u", latest.engineRPM);
+            ImGui::SameLine(200);
+            // Rev lights: draw a horizontal LED strip (16 LEDs)
+            const int numLEDs = 16;
+            int lit = (int)std::round((latest.revLightsPercent / 100.0f) * numLEDs);
+            if (lit < 0) lit = 0; if (lit > numLEDs) lit = numLEDs;
+            ImVec2 ledPos = ImGui::GetCursorScreenPos();
+            float ledW = 12.0f;
+            float ledH = 8.0f;
+            float spacing = 4.0f;
+            float totalW = numLEDs * ledW + (numLEDs - 1) * spacing;
+            // center the strip
+            ImVec2 winAvail = ImGui::GetContentRegionAvail();
+            float startX = ledPos.x + (winAvail.x - totalW) * 0.5f;
+            ImDrawList* dl = ImGui::GetWindowDrawList();
+            for (int i = 0; i < numLEDs; ++i) {
+                float x = startX + i * (ledW + spacing);
+                ImVec2 a(x, ledPos.y);
+                ImVec2 b(x + ledW, ledPos.y + ledH);
+                if (i < lit) {
+                    // gradient from yellow -> red
+                    float t = (float)i / (float)(numLEDs - 1);
+                    ImU32 col = ImGui::GetColorU32(ImVec4(1.0f, 0.8f * (1.0f - t), 0.0f + 0.5f * t, 1.0f));
+                    dl->AddRectFilled(a, b, col, 2.0f);
+                } else {
+                    dl->AddRectFilled(a, b, ImGui::GetColorU32(ImVec4(0.12f,0.12f,0.12f,1.0f)), 2.0f);
+                }
+                dl->AddRect(a, b, ImGui::GetColorU32(ImVec4(0,0,0,0.25f)), 2.0f);
+            }
+            // reserve space for the drawn LEDs
+            ImGui::Dummy(ImVec2(totalW, ledH + 4.0f));
+            ImGui::Text("Clutch: %u%%", latest.clutch);
+            ImGui::Text("DRS: %s", latest.drs ? "On" : "Off");
+
+            // Throttle & Brake bars side-by-side
+            ImGui::Spacing();
+            float barWidth = ImGui::GetContentRegionAvail().x * 0.48f;
+            ImGui::BeginGroup();
+            ImGui::Text("Throttle");
+            ImGui::PushStyleColor(ImGuiCol_PlotHistogram, ImVec4(0.0f, 1.0f, 0.0f, 1.0f));
+            ImGui::ProgressBar(latest.throttle, ImVec2(barWidth, 0));
+            ImGui::PopStyleColor();
+            ImGui::EndGroup();
+            ImGui::SameLine();
+            ImGui::BeginGroup();
+            ImGui::Text("Brake");
+            ImGui::PushStyleColor(ImGuiCol_PlotHistogram, ImVec4(1.0f, 0.0f, 0.0f, 1.0f));
+            ImGui::ProgressBar(latest.brake, ImVec2(barWidth, 0));
+            ImGui::PopStyleColor();
+            ImGui::EndGroup();
+
+            // Steering wheel radial indicator
+            ImGui::Spacing();
+            ImDrawList* draw = ImGui::GetWindowDrawList();
+            ImVec2 cur = ImGui::GetCursorScreenPos();
+            float wheelSize = 80.0f;
+            ImVec2 center = ImVec2(cur.x + wheelSize + 10, cur.y + wheelSize + 10);
+            // Reserve space
+            ImGui::Dummy(ImVec2(wheelSize * 2 + 20, wheelSize * 2 + 20));
+            // Draw wheel
+            ImU32 wheelCol = ImGui::GetColorU32(ImVec4(0.1f, 0.1f, 0.12f, 1.0f));
+            draw->AddCircleFilled(center, wheelSize, wheelCol);
+            draw->AddCircle(center, wheelSize, ImGui::GetColorU32(ImVec4(0.8f,0.8f,0.8f,1.0f)), 32, 2.0f);
+            // Steering angle line
+            const float PI = 3.14159265f;
+            // Map steering -1..1 to approx -270..270 degrees, but rotate so 0 points up
+            float angle = latest.steer * 1.5f * PI - 0.5f * PI; // 0 -> -90deg (up)
+            float lx = cosf(angle) * (wheelSize * 0.6f);
+            float ly = sinf(angle) * (wheelSize * 0.6f);
+            ImVec2 p2 = ImVec2(center.x + lx, center.y + ly);
+            draw->AddLine(center, p2, ImGui::GetColorU32(ImVec4(1.0f,0.6f,0.0f,1.0f)), 3.0f);
+            // Steering numeric
+            ImGui::SetCursorScreenPos(ImVec2(center.x - 40, center.y + wheelSize + 8));
+            ImGui::Text("Steer: %.2f", latest.steer);
+
+            ImGui::End();
+        }
+    }
+
     ImGui::Text("Samples in buffer: %zu / %zu", m_throttleHistory.size(), MAX_HISTORY);
 
     ImGui::End();
@@ -142,13 +333,13 @@ void Visualizer::drawUI() {
     ImGui::Begin("Statistics");
 
     if (!m_throttleHistory.empty()) {
-        float throttleMax = *std::max_element(m_throttleHistory.begin(), m_throttleHistory.end());
-        float brakeMax = *std::max_element(m_brakeHistory.begin(), m_brakeHistory.end());
-        float steerMax = *std::max_element(m_steerHistory.begin(), m_steerHistory.end());
-        float steerMin = *std::min_element(m_steerHistory.begin(), m_steerHistory.end());
+        double throttleMax = *std::max_element(m_throttleHistory.begin(), m_throttleHistory.end());
+        double brakeMax = *std::max_element(m_brakeHistory.begin(), m_brakeHistory.end());
+        double steerMax = *std::max_element(m_steerHistory.begin(), m_steerHistory.end());
+        double steerMin = *std::min_element(m_steerHistory.begin(), m_steerHistory.end());
 
-        ImGui::Text("Throttle Max: %.2f%%", throttleMax * 100.0f);
-        ImGui::Text("Brake Max: %.2f%%", brakeMax * 100.0f);
+        ImGui::Text("Throttle Max: %.2f%%", throttleMax * 100.0);
+        ImGui::Text("Brake Max: %.2f%%", brakeMax * 100.0);
         ImGui::Text("Steer Range: [%.2f, %.2f]", steerMin, steerMax);
     }
 

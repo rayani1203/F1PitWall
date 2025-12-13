@@ -21,6 +21,16 @@ public:
         return count;
     }
 
+    // Peek the most recent element without copying the whole buffer.
+    // Returns false when the buffer is empty.
+    bool peekLatest(T& out) const {
+        size_t w = writeIndex.load();
+        if (w == 0) return false;
+        size_t idx = (w - 1) % N;
+        out = buffer[idx];
+        return true;
+    }
+
 private:
     std::array<T, N> buffer{};
     std::atomic<size_t> writeIndex{0};

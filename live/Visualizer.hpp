@@ -22,10 +22,14 @@ private:
     void* m_window;  // GLFWwindow*
 
     // Plot history buffers
-    std::vector<float> m_throttleHistory;
-    std::vector<float> m_brakeHistory;
-    std::vector<float> m_steerHistory;
+    // Use double for all plot arrays so ImPlot can take xs and ys with the same type
+    std::vector<double> m_throttleHistory;
+    std::vector<double> m_brakeHistory;
+    std::vector<double> m_steerHistory;
     std::vector<double> m_timeHistory;
+    std::vector<int> m_clutchHistory;
+    std::vector<int> m_drsHistory;
+    std::vector<int> m_gearHistory;
     
     static constexpr size_t MAX_HISTORY = 512;
 

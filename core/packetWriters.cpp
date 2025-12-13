@@ -27,6 +27,15 @@ void writeCarTelemetryPacket(const uint8_t* data, std::ofstream& file) {
         sample.steer = carData.m_steer;
         sample.timestampMs = static_cast<uint64_t>(packet->m_header.m_sessionTime*1000);
 
+    // Populate extended telemetry fields
+    sample.speed = carData.m_speed;
+    sample.engineRPM = carData.m_engineRPM;
+    // Store clutch as an integer percentage to avoid noisy floating prints
+    sample.clutch = static_cast<uint8_t>(static_cast<int>(carData.m_clutch));
+    sample.gear = carData.m_gear;
+    sample.drs = carData.m_drs;
+    sample.revLightsPercent = carData.m_revLightsPercent;
+
         g_liveInputs.push(sample);
 
         file << "Car " << i << ":\n";
@@ -286,20 +295,23 @@ void writeCarDamagePacket(const uint8_t* data, std::ofstream& file) {
 }
 
 void writeSessionHistoryPacket(const uint8_t* data, std::ofstream& file) {
-    const PacketSessionHistoryData* packet = reinterpret_cast<const PacketSessionHistoryData*>(data);
-    file << "Session History: CarIdx=" << static_cast<int>(packet->m_carIdx)
-         << ", NumLaps=" << static_cast<int>(packet->m_numLaps)
-         << ", NumStints=" << static_cast<int>(packet->m_numTyreStints) << "\n";
+    // Use memcpy to safely read the struct without reinterpret_cast alignment issues
+    PacketSessionHistoryData packet;
+    std::memcpy(&packet, data, sizeof(PacketSessionHistoryData));
     
-    file << "Best Times: Lap#" << static_cast<int>(packet->m_bestLapTimeLapNum)
-         << ", S1#" << static_cast<int>(packet->m_bestSector1LapNum)
-         << ", S2#" << static_cast<int>(packet->m_bestSector2LapNum)
-         << ", S3#" << static_cast<int>(packet->m_bestSector3LapNum) << "\n\n";
+    file << "Session History: CarIdx=" << static_cast<int>(packet.m_carIdx)
+         << ", NumLaps=" << static_cast<int>(packet.m_numLaps)
+         << ", NumStints=" << static_cast<int>(packet.m_numTyreStints) << "\n";
+    
+    file << "Best Times: Lap#" << static_cast<int>(packet.m_bestLapTimeLapNum)
+         << ", S1#" << static_cast<int>(packet.m_bestSector1LapNum)
+         << ", S2#" << static_cast<int>(packet.m_bestSector2LapNum)
+         << ", S3#" << static_cast<int>(packet.m_bestSector3LapNum) << "\n\n";
 
     // Lap History
     file << "Lap History:\n";
-    for (int i = 0; i < packet->m_numLaps && i < 100; ++i) {
-        const LapHistoryData& lap = packet->m_lapHistoryData[i];
+    for (int i = 0; i < packet.m_numLaps && i < 100; ++i) {
+        const LapHistoryData& lap = packet.m_lapHistoryData[i];
         
         // Format total lap time
         uint32_t totalMs = lap.m_lapTimeInMS;
@@ -312,13 +324,13 @@ void writeSessionHistoryPacket(const uint8_t* data, std::ofstream& file) {
              << std::setw(3) << ms << std::setfill(' ');
         
         // Sector times
-        file << " [S1: " << lap.m_sector1TimeMinutes << ":"
+        file << " [S1: " << static_cast<int>(lap.m_sector1TimeMinutes) << ":"
              << std::setfill('0') << std::setw(2) << (lap.m_sector1TimeInMS / 1000) << "."
              << std::setw(3) << (lap.m_sector1TimeInMS % 1000) << std::setfill(' ')
-             << ", S2: " << lap.m_sector2TimeMinutes << ":"
+             << ", S2: " << static_cast<int>(lap.m_sector2TimeMinutes) << ":"
              << std::setfill('0') << std::setw(2) << (lap.m_sector2TimeInMS / 1000) << "."
              << std::setw(3) << (lap.m_sector2TimeInMS % 1000) << std::setfill(' ')
-             << ", S3: " << lap.m_sector3TimeMinutes << ":"
+             << ", S3: " << static_cast<int>(lap.m_sector3TimeMinutes) << ":"
              << std::setfill('0') << std::setw(2) << (lap.m_sector3TimeInMS / 1000) << "."
              << std::setw(3) << (lap.m_sector3TimeInMS % 1000) << std::setfill(' ')
              << "]";
@@ -340,15 +352,15 @@ void writeSessionHistoryPacket(const uint8_t* data, std::ofstream& file) {
     }
     
     // Tyre Stint History
-    // if (packet->m_numTyreStints > 0) {
-    //     file << "\nTyre Stint History:\n";
-    //     for (int i = 0; i < packet->m_numTyreStints && i < 8; ++i) {
-    //         const TyreStintHistoryData& stint = packet->m_tyreStintsHistoryData[i];
-    //         file << "  Stint " << i << ": EndLap=" << static_cast<int>(stint.m_endLap)
-    //              << ", ActualCompound=" << static_cast<int>(stint.m_tyreActualCompound)
-    //              << ", VisualCompound=" << static_cast<int>(stint.m_tyreVisualCompound) << "\n";
-    //     }
-    // }
+    if (packet.m_numTyreStints > 0) {
+        file << "\nTyre Stint History:\n";
+        for (int i = 0; i < packet.m_numTyreStints && i < 8; ++i) {
+            const TyreStintHistoryData& stint = packet.m_tyreStintsHistoryData[i];
+            file << "  Stint " << i << ": EndLap=" << static_cast<int>(stint.m_endLap)
+                 << ", ActualCompound=" << static_cast<int>(stint.m_tyreActualCompound)
+                 << ", VisualCompound=" << static_cast<int>(stint.m_tyreVisualCompound) << "\n";
+        }
+    }
 }
 
 void writeTyreSetsPacket(const uint8_t* data, std::ofstream& file) {

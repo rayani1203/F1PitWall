@@ -11,3 +11,4 @@ bin/
 *.dylib
 # IDE files
 .vscode/
+telemetry_data/
