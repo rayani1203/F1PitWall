@@ -12,3 +12,4 @@ bin/
 # IDE files
 .vscode/
 telemetry_data/
+telemetry_data/*

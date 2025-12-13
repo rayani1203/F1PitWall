@@ -1,500 +1,433 @@
-==== 2025-12-12 20:50:49 ====
-Event: BUTN - Button status
-  Button Status: 0x1
-
-==== 2025-12-12 20:50:49 ====
+==== 2025-12-13 03:12:27 ====
 Event: BUTN - Button status
   Button Status: 0x0
 
-==== 2025-12-12 20:50:49 ====
-Event: PENA - Penalty Issued
-  Penalty Type: 12
-  Infringement Type: 30
-  Vehicle Index: 0
-  Other Vehicle Index: 255
-  Time: 255 s
-  Lap Number: 8
-  Places Gained: 255
-
-==== 2025-12-12 20:50:50 ====
-Event: PENA - Penalty Issued
-  Penalty Type: 12
-  Infringement Type: 30
-  Vehicle Index: 0
-  Other Vehicle Index: 255
-  Time: 255 s
-  Lap Number: 8
-  Places Gained: 255
-
-==== 2025-12-12 20:50:54 ====
-Event: BUTN - Button status
-  Button Status: 0x20000
-
-==== 2025-12-12 20:50:56 ====
+==== 2025-12-13 03:12:37 ====
 Event: BUTN - Button status
   Button Status: 0x0
 
-==== 2025-12-12 20:50:56 ====
-Event: BUTN - Button status
-  Button Status: 0x20000
-
-==== 2025-12-12 20:50:57 ====
-Event: BUTN - Button status
-  Button Status: 0x0
-
-==== 2025-12-12 20:50:57 ====
-Event: BUTN - Button status
-  Button Status: 0x40000
-
-==== 2025-12-12 20:50:58 ====
-Event: BUTN - Button status
-  Button Status: 0x40200
-
-==== 2025-12-12 20:50:58 ====
-Event: BUTN - Button status
-  Button Status: 0x40000
-
-==== 2025-12-12 20:50:58 ====
-Event: BUTN - Button status
-  Button Status: 0x0
-
-==== 2025-12-12 20:50:58 ====
-Event: BUTN - Button status
-  Button Status: 0x40000
-
-==== 2025-12-12 20:50:59 ====
-Event: BUTN - Button status
-  Button Status: 0x40200
-
-==== 2025-12-12 20:50:59 ====
+==== 2025-12-13 03:12:38 ====
 Event: BUTN - Button status
   Button Status: 0x200
 
-==== 2025-12-12 20:50:59 ====
+==== 2025-12-13 03:12:38 ====
 Event: BUTN - Button status
   Button Status: 0x0
 
-==== 2025-12-12 20:50:59 ====
+==== 2025-12-13 03:12:38 ====
 Event: BUTN - Button status
   Button Status: 0x200
 
-==== 2025-12-12 20:50:59 ====
+==== 2025-12-13 03:12:39 ====
 Event: BUTN - Button status
   Button Status: 0x0
 
-==== 2025-12-12 20:50:59 ====
+==== 2025-12-13 03:12:39 ====
 Event: BUTN - Button status
   Button Status: 0x200
 
-==== 2025-12-12 20:51:00 ====
+==== 2025-12-13 03:12:39 ====
 Event: BUTN - Button status
   Button Status: 0x0
 
-==== 2025-12-12 20:51:00 ====
+==== 2025-12-13 03:12:39 ====
 Event: BUTN - Button status
   Button Status: 0x200
 
-==== 2025-12-12 20:51:00 ====
+==== 2025-12-13 03:12:39 ====
 Event: BUTN - Button status
   Button Status: 0x0
 
-==== 2025-12-12 20:51:02 ====
-Event: BUTN - Button status
-  Button Status: 0x20000
-
-==== 2025-12-12 20:51:02 ====
-Event: PENA - Penalty Issued
-  Penalty Type: 13
-  Infringement Type: 26
-  Vehicle Index: 0
-  Other Vehicle Index: 255
-  Time: 255 s
-  Lap Number: 8
-  Places Gained: 255
-
-==== 2025-12-12 20:51:03 ====
-Event: BUTN - Button status
-  Button Status: 0x20400
-
-==== 2025-12-12 20:51:03 ====
-Event: BUTN - Button status
-  Button Status: 0x20000
-
-==== 2025-12-12 20:51:04 ====
-Event: BUTN - Button status
-  Button Status: 0x20400
-
-==== 2025-12-12 20:51:04 ====
-Event: BUTN - Button status
-  Button Status: 0x20000
-
-==== 2025-12-12 20:51:05 ====
-Event: BUTN - Button status
-  Button Status: 0x20400
-
-==== 2025-12-12 20:51:05 ====
-Event: BUTN - Button status
-  Button Status: 0x20000
-
-==== 2025-12-12 20:51:06 ====
-Event: BUTN - Button status
-  Button Status: 0x20400
-
-==== 2025-12-12 20:51:06 ====
-Event: BUTN - Button status
-  Button Status: 0x20000
-
-==== 2025-12-12 20:51:08 ====
-Event: BUTN - Button status
-  Button Status: 0x20400
-
-==== 2025-12-12 20:51:08 ====
-Event: BUTN - Button status
-  Button Status: 0x20000
-
-==== 2025-12-12 20:51:10 ====
-Event: BUTN - Button status
-  Button Status: 0x20800
-
-==== 2025-12-12 20:51:10 ====
-Event: BUTN - Button status
-  Button Status: 0x20000
-
-==== 2025-12-12 20:51:12 ====
-Event: BUTN - Button status
-  Button Status: 0x20400
-
-==== 2025-12-12 20:51:12 ====
-Event: BUTN - Button status
-  Button Status: 0x20000
-
-==== 2025-12-12 20:51:16 ====
-Event: SPTP - Speed Trap Triggered
-  Vehicle Index: 0
-  Speed: 329.3 km/h
-  Overall Fastest: 0
-  Driver Fastest: 0
-  Fastest Vehicle Index: 0
-  Fastest Speed in Session: 332.6 km/h
-
-==== 2025-12-12 20:51:16 ====
-Event: BUTN - Button status
-  Button Status: 0x0
-
-==== 2025-12-12 20:51:16 ====
-Event: BUTN - Button status
-  Button Status: 0x40000
-
-==== 2025-12-12 20:51:16 ====
-Event: BUTN - Button status
-  Button Status: 0x40200
-
-==== 2025-12-12 20:51:16 ====
-Event: BUTN - Button status
-  Button Status: 0x40000
-
-==== 2025-12-12 20:51:16 ====
-Event: BUTN - Button status
-  Button Status: 0x40200
-
-==== 2025-12-12 20:51:16 ====
-Event: BUTN - Button status
-  Button Status: 0x40000
-
-==== 2025-12-12 20:51:17 ====
-Event: BUTN - Button status
-  Button Status: 0x40200
-
-==== 2025-12-12 20:51:17 ====
-Event: BUTN - Button status
-  Button Status: 0x40000
-
-==== 2025-12-12 20:51:17 ====
-Event: BUTN - Button status
-  Button Status: 0x0
-
-==== 2025-12-12 20:51:17 ====
+==== 2025-12-13 03:12:40 ====
 Event: BUTN - Button status
   Button Status: 0x200
 
-==== 2025-12-12 20:51:17 ====
+==== 2025-12-13 03:12:40 ====
 Event: BUTN - Button status
   Button Status: 0x0
 
-==== 2025-12-12 20:51:17 ====
-Event: BUTN - Button status
-  Button Status: 0x40000
-
-==== 2025-12-12 20:51:17 ====
-Event: BUTN - Button status
-  Button Status: 0x40200
-
-==== 2025-12-12 20:51:17 ====
-Event: BUTN - Button status
-  Button Status: 0x40000
-
-==== 2025-12-12 20:51:18 ====
-Event: BUTN - Button status
-  Button Status: 0x40200
-
-==== 2025-12-12 20:51:18 ====
-Event: BUTN - Button status
-  Button Status: 0x0
-
-==== 2025-12-12 20:51:19 ====
-Event: BUTN - Button status
-  Button Status: 0x10000
-
-==== 2025-12-12 20:51:20 ====
-Event: BUTN - Button status
-  Button Status: 0x0
-
-==== 2025-12-12 20:51:21 ====
+==== 2025-12-13 03:12:42 ====
 Event: BUTN - Button status
   Button Status: 0x20000
 
-==== 2025-12-12 20:51:23 ====
+==== 2025-12-13 03:12:45 ====
 Event: BUTN - Button status
   Button Status: 0x0
 
-==== 2025-12-12 20:51:23 ====
-Event: BUTN - Button status
-  Button Status: 0x20000
-
-==== 2025-12-12 20:51:23 ====
-Event: BUTN - Button status
-  Button Status: 0x0
-
-==== 2025-12-12 20:51:23 ====
+==== 2025-12-13 03:12:45 ====
 Event: BUTN - Button status
   Button Status: 0x400
 
-==== 2025-12-12 20:51:24 ====
+==== 2025-12-13 03:12:45 ====
 Event: BUTN - Button status
   Button Status: 0x0
 
-==== 2025-12-12 20:51:24 ====
+==== 2025-12-13 03:12:46 ====
 Event: BUTN - Button status
   Button Status: 0x20000
 
-==== 2025-12-12 20:51:25 ====
+==== 2025-12-13 03:12:47 ====
 Event: BUTN - Button status
   Button Status: 0x20400
 
-==== 2025-12-12 20:51:25 ====
+==== 2025-12-13 03:12:47 ====
 Event: BUTN - Button status
   Button Status: 0x20000
 
-==== 2025-12-12 20:51:26 ====
+==== 2025-12-13 03:12:48 ====
 Event: BUTN - Button status
   Button Status: 0x20400
 
-==== 2025-12-12 20:51:26 ====
+==== 2025-12-13 03:12:48 ====
 Event: BUTN - Button status
   Button Status: 0x20000
 
-==== 2025-12-12 20:51:27 ====
+==== 2025-12-13 03:12:50 ====
+Event: BUTN - Button status
+  Button Status: 0x20400
+
+==== 2025-12-13 03:12:50 ====
+Event: BUTN - Button status
+  Button Status: 0x20000
+
+==== 2025-12-13 03:12:51 ====
+Event: BUTN - Button status
+  Button Status: 0x20010
+
+==== 2025-12-13 03:12:51 ====
+Event: BUTN - Button status
+  Button Status: 0x20000
+
+==== 2025-12-13 03:12:52 ====
 Event: BUTN - Button status
   Button Status: 0x20800
 
-==== 2025-12-12 20:51:27 ====
+==== 2025-12-13 03:12:52 ====
 Event: BUTN - Button status
   Button Status: 0x20000
 
-==== 2025-12-12 20:51:27 ====
+==== 2025-12-13 03:12:52 ====
 Event: BUTN - Button status
   Button Status: 0x20400
 
-==== 2025-12-12 20:51:27 ====
+==== 2025-12-13 03:12:52 ====
 Event: BUTN - Button status
   Button Status: 0x20000
 
-==== 2025-12-12 20:51:29 ====
+==== 2025-12-13 03:12:56 ====
 Event: BUTN - Button status
   Button Status: 0x20400
 
-==== 2025-12-12 20:51:30 ====
-Event: BUTN - Button status
-  Button Status: 0x20100
-
-==== 2025-12-12 20:51:30 ====
+==== 2025-12-13 03:12:56 ====
 Event: BUTN - Button status
   Button Status: 0x20000
 
-==== 2025-12-12 20:51:30 ====
+==== 2025-12-13 03:12:58 ====
 Event: BUTN - Button status
   Button Status: 0x0
 
-==== 2025-12-12 20:51:36 ====
-Event: BUTN - Button status
-  Button Status: 0x80
-
-==== 2025-12-12 20:51:36 ====
-Event: BUTN - Button status
-  Button Status: 0x0
-
-==== 2025-12-12 20:51:36 ====
-Event: BUTN - Button status
-  Button Status: 0x1
-
-==== 2025-12-12 20:51:37 ====
-Event: BUTN - Button status
-  Button Status: 0x0
-
-==== 2025-12-12 20:51:39 ====
-Event: BUTN - Button status
-  Button Status: 0x8
-
-==== 2025-12-12 20:51:39 ====
-Event: BUTN - Button status
-  Button Status: 0x0
-
-==== 2025-12-12 20:51:39 ====
-Event: FLBK - Flashback activated
-  Flashback Frame ID: 16322
-  Flashback Session Time: 780.48 s
-
-==== 2025-12-12 20:51:41 ====
+==== 2025-12-13 03:12:58 ====
 Event: BUTN - Button status
   Button Status: 0x40000
 
-==== 2025-12-12 20:51:42 ====
+==== 2025-12-13 03:12:58 ====
+Event: SPTP - Speed Trap Triggered
+  Vehicle Index: 0
+  Speed: 270.5 km/h
+  Overall Fastest: 1
+  Driver Fastest: 1
+  Fastest Vehicle Index: 0
+  Fastest Speed in Session: 270.5 km/h
+
+==== 2025-12-13 03:12:58 ====
 Event: BUTN - Button status
   Button Status: 0x40200
 
-==== 2025-12-12 20:51:42 ====
+==== 2025-12-13 03:12:59 ====
 Event: BUTN - Button status
   Button Status: 0x40000
 
-==== 2025-12-12 20:51:42 ====
+==== 2025-12-13 03:12:59 ====
 Event: BUTN - Button status
   Button Status: 0x40200
 
-==== 2025-12-12 20:51:42 ====
+==== 2025-12-13 03:12:59 ====
 Event: BUTN - Button status
   Button Status: 0x40000
 
-==== 2025-12-12 20:51:42 ====
+==== 2025-12-13 03:12:59 ====
+Event: BUTN - Button status
+  Button Status: 0x40200
+
+==== 2025-12-13 03:12:59 ====
+Event: BUTN - Button status
+  Button Status: 0x40000
+
+==== 2025-12-13 03:12:59 ====
 Event: BUTN - Button status
   Button Status: 0x0
 
-==== 2025-12-12 20:51:43 ====
+==== 2025-12-13 03:13:00 ====
 Event: BUTN - Button status
   Button Status: 0x200
 
-==== 2025-12-12 20:51:43 ====
+==== 2025-12-13 03:13:00 ====
 Event: BUTN - Button status
   Button Status: 0x0
 
-==== 2025-12-12 20:51:43 ====
+==== 2025-12-13 03:13:00 ====
 Event: BUTN - Button status
-  Button Status: 0x10000
+  Button Status: 0x200
 
-==== 2025-12-12 20:51:44 ====
-Event: BUTN - Button status
-  Button Status: 0x0
-
-==== 2025-12-12 20:51:47 ====
-Event: BUTN - Button status
-  Button Status: 0x100
-
-==== 2025-12-12 20:51:47 ====
+==== 2025-12-13 03:13:01 ====
 Event: BUTN - Button status
   Button Status: 0x0
 
-==== 2025-12-12 20:52:09 ====
+==== 2025-12-13 03:13:01 ====
 Event: BUTN - Button status
-  Button Status: 0x1
+  Button Status: 0x200
 
-==== 2025-12-12 20:52:09 ====
+==== 2025-12-13 03:13:01 ====
 Event: BUTN - Button status
   Button Status: 0x0
 
-==== 2025-12-12 20:52:14 ====
+==== 2025-12-13 03:13:04 ====
 Event: BUTN - Button status
   Button Status: 0x20000
 
-==== 2025-12-12 20:52:16 ====
+==== 2025-12-13 03:13:06 ====
+Event: BUTN - Button status
+  Button Status: 0x0
+
+==== 2025-12-13 03:13:06 ====
+Event: BUTN - Button status
+  Button Status: 0x20000
+
+==== 2025-12-13 03:13:06 ====
+Event: BUTN - Button status
+  Button Status: 0x0
+
+==== 2025-12-13 03:13:06 ====
+Event: BUTN - Button status
+  Button Status: 0x200
+
+==== 2025-12-13 03:13:06 ====
+Event: BUTN - Button status
+  Button Status: 0x0
+
+==== 2025-12-13 03:13:07 ====
+Event: BUTN - Button status
+  Button Status: 0x20000
+
+==== 2025-12-13 03:13:08 ====
 Event: BUTN - Button status
   Button Status: 0x20400
 
-==== 2025-12-12 20:52:16 ====
+==== 2025-12-13 03:13:08 ====
 Event: BUTN - Button status
   Button Status: 0x20000
 
-==== 2025-12-12 20:52:17 ====
+==== 2025-12-13 03:13:09 ====
+Event: BUTN - Button status
+  Button Status: 0x20400
+
+==== 2025-12-13 03:13:09 ====
+Event: BUTN - Button status
+  Button Status: 0x20000
+
+==== 2025-12-13 03:13:10 ====
+Event: BUTN - Button status
+  Button Status: 0x20400
+
+==== 2025-12-13 03:13:10 ====
+Event: BUTN - Button status
+  Button Status: 0x20000
+
+==== 2025-12-13 03:13:10 ====
+Event: BUTN - Button status
+  Button Status: 0x0
+
+==== 2025-12-13 03:13:10 ====
+Event: BUTN - Button status
+  Button Status: 0x20000
+
+==== 2025-12-13 03:13:11 ====
+Event: BUTN - Button status
+  Button Status: 0x20400
+
+==== 2025-12-13 03:13:11 ====
+Event: BUTN - Button status
+  Button Status: 0x20000
+
+==== 2025-12-13 03:13:13 ====
+Event: BUTN - Button status
+  Button Status: 0x20400
+
+==== 2025-12-13 03:13:13 ====
+Event: BUTN - Button status
+  Button Status: 0x20000
+
+==== 2025-12-13 03:13:15 ====
+Event: BUTN - Button status
+  Button Status: 0x20400
+
+==== 2025-12-13 03:13:15 ====
+Event: BUTN - Button status
+  Button Status: 0x20000
+
+==== 2025-12-13 03:13:16 ====
+Event: BUTN - Button status
+  Button Status: 0x0
+
+==== 2025-12-13 03:13:17 ====
+Event: BUTN - Button status
+  Button Status: 0x40000
+
+==== 2025-12-13 03:13:17 ====
+Event: BUTN - Button status
+  Button Status: 0x40200
+
+==== 2025-12-13 03:13:17 ====
+Event: BUTN - Button status
+  Button Status: 0x40000
+
+==== 2025-12-13 03:13:17 ====
+Event: BUTN - Button status
+  Button Status: 0x40200
+
+==== 2025-12-13 03:13:17 ====
+Event: BUTN - Button status
+  Button Status: 0x40000
+
+==== 2025-12-13 03:13:18 ====
+Event: BUTN - Button status
+  Button Status: 0x40200
+
+==== 2025-12-13 03:13:18 ====
+Event: BUTN - Button status
+  Button Status: 0x40000
+
+==== 2025-12-13 03:13:18 ====
+Event: BUTN - Button status
+  Button Status: 0x0
+
+==== 2025-12-13 03:13:24 ====
+Event: BUTN - Button status
+  Button Status: 0x0
+
+==== 2025-12-13 03:13:24 ====
+Event: BUTN - Button status
+  Button Status: 0x40000
+
+==== 2025-12-13 03:13:25 ====
+Event: BUTN - Button status
+  Button Status: 0x0
+
+==== 2025-12-13 03:13:25 ====
+Event: BUTN - Button status
+  Button Status: 0x20000
+
+==== 2025-12-13 03:13:25 ====
+Event: BUTN - Button status
+  Button Status: 0x0
+
+==== 2025-12-13 03:13:32 ====
+Event: BUTN - Button status
+  Button Status: 0x20000
+
+==== 2025-12-13 03:13:33 ====
+Event: BUTN - Button status
+  Button Status: 0x0
+
+==== 2025-12-13 03:13:34 ====
+Event: BUTN - Button status
+  Button Status: 0x20000
+
+==== 2025-12-13 03:13:34 ====
+Event: BUTN - Button status
+  Button Status: 0x20400
+
+==== 2025-12-13 03:13:34 ====
+Event: BUTN - Button status
+  Button Status: 0x20000
+
+==== 2025-12-13 03:13:35 ====
+Event: BUTN - Button status
+  Button Status: 0x0
+
+==== 2025-12-13 03:13:35 ====
+Event: BUTN - Button status
+  Button Status: 0x40000
+
+==== 2025-12-13 03:13:35 ====
+Event: BUTN - Button status
+  Button Status: 0x40200
+
+==== 2025-12-13 03:13:35 ====
+Event: BUTN - Button status
+  Button Status: 0x40000
+
+==== 2025-12-13 03:13:36 ====
+Event: BUTN - Button status
+  Button Status: 0x40200
+
+==== 2025-12-13 03:13:36 ====
+Event: BUTN - Button status
+  Button Status: 0x0
+
+==== 2025-12-13 03:13:36 ====
+Event: BUTN - Button status
+  Button Status: 0x200
+
+==== 2025-12-13 03:13:36 ====
+Event: BUTN - Button status
+  Button Status: 0x0
+
+==== 2025-12-13 03:13:38 ====
+Event: BUTN - Button status
+  Button Status: 0x20000
+
+==== 2025-12-13 03:13:40 ====
+Event: BUTN - Button status
+  Button Status: 0x20400
+
+==== 2025-12-13 03:13:40 ====
+Event: BUTN - Button status
+  Button Status: 0x20000
+
+==== 2025-12-13 03:13:41 ====
+Event: BUTN - Button status
+  Button Status: 0x20400
+
+==== 2025-12-13 03:13:41 ====
+Event: BUTN - Button status
+  Button Status: 0x20000
+
+==== 2025-12-13 03:13:42 ====
+Event: BUTN - Button status
+  Button Status: 0x20400
+
+==== 2025-12-13 03:13:42 ====
+Event: BUTN - Button status
+  Button Status: 0x20000
+
+==== 2025-12-13 03:13:42 ====
+Event: BUTN - Button status
+  Button Status: 0x0
+
+==== 2025-12-13 03:13:44 ====
 Event: BUTN - Button status
   Button Status: 0x100
 
-==== 2025-12-12 20:52:17 ====
+==== 2025-12-13 03:13:44 ====
 Event: BUTN - Button status
   Button Status: 0x0
 
-==== 2025-12-12 20:52:18 ====
+==== 2025-12-13 03:13:44 ====
 Event: BUTN - Button status
-  Button Status: 0x80
+  Button Status: 0x100
 
-==== 2025-12-12 20:52:18 ====
-Event: BUTN - Button status
-  Button Status: 0x0
-
-==== 2025-12-12 20:52:18 ====
-Event: BUTN - Button status
-  Button Status: 0x80
-
-==== 2025-12-12 20:52:18 ====
-Event: BUTN - Button status
-  Button Status: 0x0
-
-==== 2025-12-12 20:52:18 ====
-Event: BUTN - Button status
-  Button Status: 0x80
-
-==== 2025-12-12 20:52:18 ====
-Event: BUTN - Button status
-  Button Status: 0x0
-
-==== 2025-12-12 20:52:18 ====
-Event: BUTN - Button status
-  Button Status: 0x80
-
-==== 2025-12-12 20:52:18 ====
-Event: BUTN - Button status
-  Button Status: 0x0
-
-==== 2025-12-12 20:52:19 ====
-Event: BUTN - Button status
-  Button Status: 0x80
-
-==== 2025-12-12 20:52:19 ====
-Event: BUTN - Button status
-  Button Status: 0x0
-
-==== 2025-12-12 20:52:19 ====
-Event: BUTN - Button status
-  Button Status: 0x1
-
-==== 2025-12-12 20:52:19 ====
-Event: BUTN - Button status
-  Button Status: 0x0
-
-==== 2025-12-12 20:52:19 ====
-Event: BUTN - Button status
-  Button Status: 0x20
-
-==== 2025-12-12 20:52:20 ====
-Event: BUTN - Button status
-  Button Status: 0x0
-
-==== 2025-12-12 20:52:20 ====
-Event: BUTN - Button status
-  Button Status: 0x0
-
-==== 2025-12-12 20:52:45 ====
-Event: BUTN - Button status
-  Button Status: 0x4
-
-==== 2025-12-12 20:52:45 ====
+==== 2025-12-13 03:13:44 ====
 Event: BUTN - Button status
   Button Status: 0x0
 

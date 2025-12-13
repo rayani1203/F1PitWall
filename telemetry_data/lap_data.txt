@@ -1,2152 +1,3080 @@
-==== 2025-12-12 20:50:49 ====
+==== 2025-12-13 03:12:26 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:49 ====
+==== 2025-12-13 03:12:26 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:50 ====
+==== 2025-12-13 03:12:26 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:50 ====
+==== 2025-12-13 03:12:26 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:50 ====
+==== 2025-12-13 03:12:26 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:50 ====
+==== 2025-12-13 03:12:26 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:50 ====
+==== 2025-12-13 03:12:27 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:50 ====
+==== 2025-12-13 03:12:27 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:50 ====
+==== 2025-12-13 03:12:27 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:50 ====
+==== 2025-12-13 03:12:27 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:50 ====
+==== 2025-12-13 03:12:27 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:50 ====
+==== 2025-12-13 03:12:27 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:51 ====
+==== 2025-12-13 03:12:27 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:51 ====
+==== 2025-12-13 03:12:27 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:51 ====
+==== 2025-12-13 03:12:27 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:51 ====
+==== 2025-12-13 03:12:28 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:51 ====
+==== 2025-12-13 03:12:28 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:51 ====
+==== 2025-12-13 03:12:28 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:51 ====
+==== 2025-12-13 03:12:28 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:51 ====
+==== 2025-12-13 03:12:28 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:51 ====
+==== 2025-12-13 03:12:28 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:51 ====
+==== 2025-12-13 03:12:28 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:52 ====
+==== 2025-12-13 03:12:28 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:52 ====
+==== 2025-12-13 03:12:28 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:52 ====
+==== 2025-12-13 03:12:28 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:52 ====
+==== 2025-12-13 03:12:29 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:52 ====
+==== 2025-12-13 03:12:29 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:52 ====
+==== 2025-12-13 03:12:29 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:52 ====
+==== 2025-12-13 03:12:29 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:52 ====
+==== 2025-12-13 03:12:29 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:52 ====
+==== 2025-12-13 03:12:29 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:52 ====
+==== 2025-12-13 03:12:29 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:53 ====
+==== 2025-12-13 03:12:29 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:53 ====
+==== 2025-12-13 03:12:29 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:53 ====
+==== 2025-12-13 03:12:29 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:53 ====
+==== 2025-12-13 03:12:30 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:53 ====
+==== 2025-12-13 03:12:30 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:53 ====
+==== 2025-12-13 03:12:30 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:53 ====
+==== 2025-12-13 03:12:30 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:53 ====
+==== 2025-12-13 03:12:30 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:53 ====
+==== 2025-12-13 03:12:30 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:53 ====
+==== 2025-12-13 03:12:30 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:54 ====
+==== 2025-12-13 03:12:30 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:54 ====
+==== 2025-12-13 03:12:30 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:54 ====
+==== 2025-12-13 03:12:30 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:54 ====
+==== 2025-12-13 03:12:31 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:54 ====
+==== 2025-12-13 03:12:31 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:54 ====
+==== 2025-12-13 03:12:31 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:54 ====
+==== 2025-12-13 03:12:31 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:54 ====
+==== 2025-12-13 03:12:31 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:54 ====
+==== 2025-12-13 03:12:31 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:54 ====
+==== 2025-12-13 03:12:31 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:55 ====
+==== 2025-12-13 03:12:31 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:55 ====
+==== 2025-12-13 03:12:31 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:55 ====
+==== 2025-12-13 03:12:31 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:55 ====
+==== 2025-12-13 03:12:32 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:55 ====
+==== 2025-12-13 03:12:32 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:55 ====
+==== 2025-12-13 03:12:32 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:55 ====
+==== 2025-12-13 03:12:32 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:55 ====
+==== 2025-12-13 03:12:32 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:55 ====
+==== 2025-12-13 03:12:32 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:56 ====
+==== 2025-12-13 03:12:32 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:56 ====
+==== 2025-12-13 03:12:32 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:56 ====
+==== 2025-12-13 03:12:33 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:56 ====
+==== 2025-12-13 03:12:33 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:56 ====
+==== 2025-12-13 03:12:33 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:56 ====
+==== 2025-12-13 03:12:33 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:56 ====
+==== 2025-12-13 03:12:33 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:56 ====
+==== 2025-12-13 03:12:33 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:56 ====
+==== 2025-12-13 03:12:33 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:56 ====
+==== 2025-12-13 03:12:33 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:57 ====
+==== 2025-12-13 03:12:33 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:57 ====
+==== 2025-12-13 03:12:33 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:57 ====
+==== 2025-12-13 03:12:34 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:57 ====
+==== 2025-12-13 03:12:34 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:57 ====
+==== 2025-12-13 03:12:34 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:57 ====
+==== 2025-12-13 03:12:34 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:57 ====
+==== 2025-12-13 03:12:34 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:57 ====
+==== 2025-12-13 03:12:34 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:57 ====
+==== 2025-12-13 03:12:34 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:57 ====
+==== 2025-12-13 03:12:34 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:58 ====
+==== 2025-12-13 03:12:34 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:58 ====
+==== 2025-12-13 03:12:34 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:58 ====
+==== 2025-12-13 03:12:35 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:58 ====
+==== 2025-12-13 03:12:35 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:58 ====
+==== 2025-12-13 03:12:35 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:58 ====
+==== 2025-12-13 03:12:35 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:58 ====
+==== 2025-12-13 03:12:35 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:58 ====
+==== 2025-12-13 03:12:35 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:58 ====
+==== 2025-12-13 03:12:35 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:58 ====
+==== 2025-12-13 03:12:35 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:59 ====
+==== 2025-12-13 03:12:35 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:59 ====
+==== 2025-12-13 03:12:35 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:59 ====
+==== 2025-12-13 03:12:36 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:59 ====
+==== 2025-12-13 03:12:36 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:59 ====
+==== 2025-12-13 03:12:36 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:59 ====
+==== 2025-12-13 03:12:36 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:59 ====
+==== 2025-12-13 03:12:36 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:59 ====
+==== 2025-12-13 03:12:36 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:59 ====
+==== 2025-12-13 03:12:36 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:50:59 ====
+==== 2025-12-13 03:12:36 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:00 ====
+==== 2025-12-13 03:12:36 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:00 ====
+==== 2025-12-13 03:12:36 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:00 ====
+==== 2025-12-13 03:12:37 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:00 ====
+==== 2025-12-13 03:12:37 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:00 ====
+==== 2025-12-13 03:12:37 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:00 ====
+==== 2025-12-13 03:12:37 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:00 ====
+==== 2025-12-13 03:12:37 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:00 ====
+==== 2025-12-13 03:12:37 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:00 ====
+==== 2025-12-13 03:12:37 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:00 ====
+==== 2025-12-13 03:12:37 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:01 ====
+==== 2025-12-13 03:12:37 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:01 ====
+==== 2025-12-13 03:12:37 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:01 ====
+==== 2025-12-13 03:12:38 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:01 ====
+==== 2025-12-13 03:12:38 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:01 ====
+==== 2025-12-13 03:12:38 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:01 ====
+==== 2025-12-13 03:12:38 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:01 ====
+==== 2025-12-13 03:12:38 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:01 ====
+==== 2025-12-13 03:12:38 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:01 ====
+==== 2025-12-13 03:12:38 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:02 ====
+==== 2025-12-13 03:12:38 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:02 ====
+==== 2025-12-13 03:12:38 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:02 ====
+==== 2025-12-13 03:12:38 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:02 ====
+==== 2025-12-13 03:12:39 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:02 ====
+==== 2025-12-13 03:12:39 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:02 ====
+==== 2025-12-13 03:12:39 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:02 ====
+==== 2025-12-13 03:12:39 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:02 ====
+==== 2025-12-13 03:12:39 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:02 ====
+==== 2025-12-13 03:12:39 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:02 ====
+==== 2025-12-13 03:12:39 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:03 ====
+==== 2025-12-13 03:12:39 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:03 ====
+==== 2025-12-13 03:12:39 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:03 ====
+==== 2025-12-13 03:12:39 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:03 ====
+==== 2025-12-13 03:12:40 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:03 ====
+==== 2025-12-13 03:12:40 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:03 ====
+==== 2025-12-13 03:12:40 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:03 ====
+==== 2025-12-13 03:12:40 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:03 ====
+==== 2025-12-13 03:12:40 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:03 ====
+==== 2025-12-13 03:12:40 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:03 ====
+==== 2025-12-13 03:12:40 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:04 ====
+==== 2025-12-13 03:12:40 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:04 ====
+==== 2025-12-13 03:12:40 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:04 ====
+==== 2025-12-13 03:12:41 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:04 ====
+==== 2025-12-13 03:12:41 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:04 ====
+==== 2025-12-13 03:12:41 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:04 ====
+==== 2025-12-13 03:12:41 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:04 ====
+==== 2025-12-13 03:12:41 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:04 ====
+==== 2025-12-13 03:12:41 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:04 ====
+==== 2025-12-13 03:12:41 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:04 ====
+==== 2025-12-13 03:12:41 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:05 ====
+==== 2025-12-13 03:12:41 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:05 ====
+==== 2025-12-13 03:12:42 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:05 ====
+==== 2025-12-13 03:12:42 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:05 ====
+==== 2025-12-13 03:12:42 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:05 ====
+==== 2025-12-13 03:12:42 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:05 ====
+==== 2025-12-13 03:12:42 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:05 ====
+==== 2025-12-13 03:12:42 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:05 ====
+==== 2025-12-13 03:12:42 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:05 ====
+==== 2025-12-13 03:12:42 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:05 ====
+==== 2025-12-13 03:12:42 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:06 ====
+==== 2025-12-13 03:12:42 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:06 ====
+==== 2025-12-13 03:12:43 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:06 ====
+==== 2025-12-13 03:12:43 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:06 ====
+==== 2025-12-13 03:12:43 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:06 ====
+==== 2025-12-13 03:12:43 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:06 ====
+==== 2025-12-13 03:12:43 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:06 ====
+==== 2025-12-13 03:12:43 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:06 ====
+==== 2025-12-13 03:12:43 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:06 ====
+==== 2025-12-13 03:12:43 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:06 ====
+==== 2025-12-13 03:12:43 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:07 ====
+==== 2025-12-13 03:12:43 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:07 ====
+==== 2025-12-13 03:12:44 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:07 ====
+==== 2025-12-13 03:12:44 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:07 ====
+==== 2025-12-13 03:12:44 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:07 ====
+==== 2025-12-13 03:12:44 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:07 ====
+==== 2025-12-13 03:12:44 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:07 ====
+==== 2025-12-13 03:12:44 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:07 ====
+==== 2025-12-13 03:12:44 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:07 ====
+==== 2025-12-13 03:12:44 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:07 ====
+==== 2025-12-13 03:12:44 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:08 ====
+==== 2025-12-13 03:12:45 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:08 ====
+==== 2025-12-13 03:12:45 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:08 ====
+==== 2025-12-13 03:12:45 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:08 ====
+==== 2025-12-13 03:12:45 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:08 ====
+==== 2025-12-13 03:12:45 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:08 ====
+==== 2025-12-13 03:12:45 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:08 ====
+==== 2025-12-13 03:12:45 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:08 ====
+==== 2025-12-13 03:12:45 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:08 ====
+==== 2025-12-13 03:12:45 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:08 ====
+==== 2025-12-13 03:12:45 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:09 ====
+==== 2025-12-13 03:12:46 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:09 ====
+==== 2025-12-13 03:12:46 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:09 ====
+==== 2025-12-13 03:12:46 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:09 ====
+==== 2025-12-13 03:12:46 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:09 ====
+==== 2025-12-13 03:12:46 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:09 ====
+==== 2025-12-13 03:12:46 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:09 ====
+==== 2025-12-13 03:12:46 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=33 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:09 ====
+==== 2025-12-13 03:12:46 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=133 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:09 ====
+==== 2025-12-13 03:12:46 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=233 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:09 ====
+==== 2025-12-13 03:12:46 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=333 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:10 ====
+==== 2025-12-13 03:12:47 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=433 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:10 ====
+==== 2025-12-13 03:12:47 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=533 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:10 ====
+==== 2025-12-13 03:12:47 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=633 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:10 ====
+==== 2025-12-13 03:12:47 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=734 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:10 ====
+==== 2025-12-13 03:12:47 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=834 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:10 ====
+==== 2025-12-13 03:12:47 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=934 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:10 ====
+==== 2025-12-13 03:12:47 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=1034 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:10 ====
+==== 2025-12-13 03:12:47 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=1134 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:10 ====
+==== 2025-12-13 03:12:47 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=1234 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:10 ====
+==== 2025-12-13 03:12:47 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=1334 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:11 ====
+==== 2025-12-13 03:12:48 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=1434 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:11 ====
+==== 2025-12-13 03:12:48 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=1534 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:11 ====
+==== 2025-12-13 03:12:48 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=1635 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:11 ====
+==== 2025-12-13 03:12:48 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=1735 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:11 ====
+==== 2025-12-13 03:12:48 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=1835 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:11 ====
+==== 2025-12-13 03:12:48 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=1935 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:11 ====
+==== 2025-12-13 03:12:48 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=2035 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:11 ====
+==== 2025-12-13 03:12:48 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=2135 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:11 ====
+==== 2025-12-13 03:12:48 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=2235 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:11 ====
+==== 2025-12-13 03:12:49 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=2335 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:12 ====
+==== 2025-12-13 03:12:49 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=2435 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:12 ====
+==== 2025-12-13 03:12:49 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=2535 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:12 ====
+==== 2025-12-13 03:12:49 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=2636 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:12 ====
+==== 2025-12-13 03:12:49 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=2736 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:12 ====
+==== 2025-12-13 03:12:49 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=2836 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:12 ====
+==== 2025-12-13 03:12:49 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=2936 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:12 ====
+==== 2025-12-13 03:12:49 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=3036 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:12 ====
+==== 2025-12-13 03:12:49 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=3136 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:12 ====
+==== 2025-12-13 03:12:49 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=3236 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:12 ====
+==== 2025-12-13 03:12:50 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=3336 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:13 ====
+==== 2025-12-13 03:12:50 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=3436 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:13 ====
+==== 2025-12-13 03:12:50 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=3536 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:13 ====
+==== 2025-12-13 03:12:50 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=3637 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:13 ====
+==== 2025-12-13 03:12:50 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=3737 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:13 ====
+==== 2025-12-13 03:12:50 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=3837 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:13 ====
+==== 2025-12-13 03:12:50 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=3937 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:13 ====
+==== 2025-12-13 03:12:50 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=4137 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:13 ====
+==== 2025-12-13 03:12:50 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=4237 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:14 ====
+==== 2025-12-13 03:12:50 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=4437 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:14 ====
+==== 2025-12-13 03:12:51 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=4537 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:14 ====
+==== 2025-12-13 03:12:51 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=4638 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:14 ====
+==== 2025-12-13 03:12:51 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=4738 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:14 ====
+==== 2025-12-13 03:12:51 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=4838 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:14 ====
+==== 2025-12-13 03:12:51 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=4938 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:14 ====
+==== 2025-12-13 03:12:51 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=5038 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:14 ====
+==== 2025-12-13 03:12:51 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=5138 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:14 ====
+==== 2025-12-13 03:12:51 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=5238 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:14 ====
+==== 2025-12-13 03:12:51 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=5338 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=0 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:15 ====
+==== 2025-12-13 03:12:51 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=5438 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=66 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:15 ====
+==== 2025-12-13 03:12:51 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=5539 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=166 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:15 ====
+==== 2025-12-13 03:12:52 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=5639 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=267 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:15 ====
+==== 2025-12-13 03:12:52 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=5739 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=367 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:15 ====
+==== 2025-12-13 03:12:52 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=5839 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=467 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:15 ====
+==== 2025-12-13 03:12:52 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=5939 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=567 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:15 ====
+==== 2025-12-13 03:12:52 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=6041 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=667 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:15 ====
+==== 2025-12-13 03:12:52 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=6141 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=767 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:15 ====
+==== 2025-12-13 03:12:52 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=6241 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=867 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:15 ====
+==== 2025-12-13 03:12:52 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=6341 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=967 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:16 ====
+==== 2025-12-13 03:12:52 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=6441 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=1067 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:16 ====
+==== 2025-12-13 03:12:52 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=6541 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=1167 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:16 ====
+==== 2025-12-13 03:12:53 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=6641 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=1268 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:16 ====
+==== 2025-12-13 03:12:53 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=6741 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=1368 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:16 ====
+==== 2025-12-13 03:12:53 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=6841 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=1468 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:16 ====
+==== 2025-12-13 03:12:53 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=6941 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=1568 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:16 ====
+==== 2025-12-13 03:12:53 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=7041 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=1668 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:16 ====
+==== 2025-12-13 03:12:53 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=7141 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=1768 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:16 ====
+==== 2025-12-13 03:12:53 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=7241 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=1868 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:16 ====
+==== 2025-12-13 03:12:53 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=7341 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=1969 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:17 ====
+==== 2025-12-13 03:12:53 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=7441 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=2069 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:17 ====
+==== 2025-12-13 03:12:53 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=7541 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=2169 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:17 ====
+==== 2025-12-13 03:12:54 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=7641 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=2269 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:17 ====
+==== 2025-12-13 03:12:54 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=7741 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=2369 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:17 ====
+==== 2025-12-13 03:12:54 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=7841 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=2469 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:17 ====
+==== 2025-12-13 03:12:54 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=7941 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=2569 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:17 ====
+==== 2025-12-13 03:12:54 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=8041 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=2669 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:17 ====
+==== 2025-12-13 03:12:54 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=8141 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=2769 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:17 ====
+==== 2025-12-13 03:12:54 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=8241 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=2869 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:17 ====
+==== 2025-12-13 03:12:54 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=8341 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=2969 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:18 ====
+==== 2025-12-13 03:12:54 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=8441 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=3069 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:18 ====
+==== 2025-12-13 03:12:54 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=8541 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=3169 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:18 ====
+==== 2025-12-13 03:12:55 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=8641 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=3269 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:18 ====
+==== 2025-12-13 03:12:55 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=8741 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=3370 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:18 ====
+==== 2025-12-13 03:12:55 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=8842 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=3470 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:18 ====
+==== 2025-12-13 03:12:55 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=8942 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=3570 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:18 ====
+==== 2025-12-13 03:12:55 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=9042 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=3670 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:18 ====
+==== 2025-12-13 03:12:55 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=9142 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=3770 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:18 ====
+==== 2025-12-13 03:12:55 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=9242 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=3870 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:18 ====
+==== 2025-12-13 03:12:55 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=9342 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=3970 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:19 ====
+==== 2025-12-13 03:12:55 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=9442 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=4070 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:19 ====
+==== 2025-12-13 03:12:55 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=9542 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=4170 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:19 ====
+==== 2025-12-13 03:12:56 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=9642 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=4270 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:19 ====
+==== 2025-12-13 03:12:56 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=9742 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=4370 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:19 ====
+==== 2025-12-13 03:12:56 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=9843 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=4470 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:19 ====
+==== 2025-12-13 03:12:56 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=9943 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=4571 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:19 ====
+==== 2025-12-13 03:12:56 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=10043 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=4671 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:19 ====
+==== 2025-12-13 03:12:56 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=10143 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=4771 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:19 ====
+==== 2025-12-13 03:12:56 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=10243 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=4871 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:19 ====
+==== 2025-12-13 03:12:56 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=10343 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=4971 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:20 ====
+==== 2025-12-13 03:12:56 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=10443 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=5071 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:20 ====
+==== 2025-12-13 03:12:56 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=10543 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=5171 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:20 ====
+==== 2025-12-13 03:12:57 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=10643 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=5272 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:20 ====
+==== 2025-12-13 03:12:57 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=10743 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=5372 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:20 ====
+==== 2025-12-13 03:12:57 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=10844 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=5472 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:20 ====
+==== 2025-12-13 03:12:57 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=10944 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=5572 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:20 ====
+==== 2025-12-13 03:12:57 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=11044 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=5672 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:20 ====
+==== 2025-12-13 03:12:57 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=11144 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=5772 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:20 ====
+==== 2025-12-13 03:12:57 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=11244 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=5872 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:20 ====
+==== 2025-12-13 03:12:57 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=11344 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=5972 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:21 ====
+==== 2025-12-13 03:12:57 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=11444 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=6072 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:21 ====
+==== 2025-12-13 03:12:57 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=11544 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=6172 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:21 ====
+==== 2025-12-13 03:12:58 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=11644 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=6272 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:21 ====
+==== 2025-12-13 03:12:58 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=11745 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=6372 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:21 ====
+==== 2025-12-13 03:12:58 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=11845 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=6473 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:21 ====
+==== 2025-12-13 03:12:58 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=11945 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=6573 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:21 ====
+==== 2025-12-13 03:12:58 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=12045 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=6673 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:21 ====
+==== 2025-12-13 03:12:58 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=12145 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=6773 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:21 ====
+==== 2025-12-13 03:12:58 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=12245 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=6873 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:21 ====
+==== 2025-12-13 03:12:58 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=12345 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=6973 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:22 ====
+==== 2025-12-13 03:12:58 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=12445 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=7073 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:22 ====
+==== 2025-12-13 03:12:59 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=12545 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=7173 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:22 ====
+==== 2025-12-13 03:12:59 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=12645 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=7273 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:22 ====
+==== 2025-12-13 03:12:59 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=12745 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=7374 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:22 ====
+==== 2025-12-13 03:12:59 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=12845 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=7474 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:22 ====
+==== 2025-12-13 03:12:59 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=12946 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=7574 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:22 ====
+==== 2025-12-13 03:12:59 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=13046 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=7774 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:22 ====
+==== 2025-12-13 03:12:59 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=13146 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=7874 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:22 ====
+==== 2025-12-13 03:12:59 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=13246 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=7974 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:22 ====
+==== 2025-12-13 03:12:59 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=13329 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=8074 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:23 ====
+==== 2025-12-13 03:13:00 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=13446 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=8174 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:23 ====
+==== 2025-12-13 03:13:00 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=13546 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=8274 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:23 ====
+==== 2025-12-13 03:13:00 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=13630 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=8374 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:23 ====
+==== 2025-12-13 03:13:00 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=13730 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=8474 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:23 ====
+==== 2025-12-13 03:13:00 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=13830 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=8574 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:23 ====
+==== 2025-12-13 03:13:00 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=13930 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=8675 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:23 ====
+==== 2025-12-13 03:13:00 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=14030 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=8775 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:23 ====
+==== 2025-12-13 03:13:00 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=14130 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=8875 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:23 ====
+==== 2025-12-13 03:13:00 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=14230 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=8975 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:23 ====
+==== 2025-12-13 03:13:00 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=14330 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=9075 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:24 ====
+==== 2025-12-13 03:13:00 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=14430 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=9175 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:24 ====
+==== 2025-12-13 03:13:01 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=14530 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=9275 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:24 ====
+==== 2025-12-13 03:13:01 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=14631 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=9375 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:24 ====
+==== 2025-12-13 03:13:01 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=14731 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=9475 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:24 ====
+==== 2025-12-13 03:13:01 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=14831 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=9575 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:24 ====
+==== 2025-12-13 03:13:01 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=14931 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=9676 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:24 ====
+==== 2025-12-13 03:13:01 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=15031 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=9776 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:24 ====
+==== 2025-12-13 03:13:01 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=15131 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=9876 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:24 ====
+==== 2025-12-13 03:13:01 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=15231 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=9976 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:24 ====
+==== 2025-12-13 03:13:01 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=15331 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=10076 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:25 ====
+==== 2025-12-13 03:13:01 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=15431 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=10176 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:25 ====
+==== 2025-12-13 03:13:02 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=15531 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=10276 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:25 ====
+==== 2025-12-13 03:13:02 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=15632 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=10376 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:25 ====
+==== 2025-12-13 03:13:02 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=15732 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=10476 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:25 ====
+==== 2025-12-13 03:13:02 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=15832 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=10576 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:25 ====
+==== 2025-12-13 03:13:02 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=15932 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=10676 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:25 ====
+==== 2025-12-13 03:13:02 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=16032 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=10777 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:25 ====
+==== 2025-12-13 03:13:02 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=16132 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=10877 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:25 ====
+==== 2025-12-13 03:13:02 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=16232 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=10977 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:25 ====
+==== 2025-12-13 03:13:02 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=16332 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=11077 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:26 ====
+==== 2025-12-13 03:13:03 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=16432 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=11177 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:26 ====
+==== 2025-12-13 03:13:03 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=16532 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=11277 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:26 ====
+==== 2025-12-13 03:13:03 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=16632 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=11477 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:26 ====
+==== 2025-12-13 03:13:03 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=16733 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=11577 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:26 ====
+==== 2025-12-13 03:13:03 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=16833 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=11678 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:26 ====
+==== 2025-12-13 03:13:03 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=16933 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=11778 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:26 ====
+==== 2025-12-13 03:13:03 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=17033 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=11878 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:26 ====
+==== 2025-12-13 03:13:03 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=17133 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=11978 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:26 ====
+==== 2025-12-13 03:13:03 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=17233 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=12078 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:26 ====
+==== 2025-12-13 03:13:04 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=17333 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=12178 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:27 ====
+==== 2025-12-13 03:13:04 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=17433 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=12278 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:27 ====
+==== 2025-12-13 03:13:04 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=17533 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=12378 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:27 ====
+==== 2025-12-13 03:13:04 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=17633 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=12478 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:27 ====
+==== 2025-12-13 03:13:04 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=17734 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=12578 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:27 ====
+==== 2025-12-13 03:13:04 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=17834 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=12678 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:27 ====
+==== 2025-12-13 03:13:04 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=17934 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=12779 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:27 ====
+==== 2025-12-13 03:13:04 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=18034 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=12879 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:27 ====
+==== 2025-12-13 03:13:04 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=18134 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=12979 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:27 ====
+==== 2025-12-13 03:13:04 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=18234 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=13079 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:27 ====
+==== 2025-12-13 03:13:04 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=18334 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=13179 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:28 ====
+==== 2025-12-13 03:13:05 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=18434 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=13279 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:28 ====
+==== 2025-12-13 03:13:05 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=18534 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=13379 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:28 ====
+==== 2025-12-13 03:13:05 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=18634 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=13479 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:28 ====
+==== 2025-12-13 03:13:05 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=18735 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=13579 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:28 ====
+==== 2025-12-13 03:13:05 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=18835 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=13679 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:28 ====
+==== 2025-12-13 03:13:05 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=18935 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=13780 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:28 ====
+==== 2025-12-13 03:13:05 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=19035 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=13880 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:28 ====
+==== 2025-12-13 03:13:05 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=19135 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=13980 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:28 ====
+==== 2025-12-13 03:13:05 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=19235 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=14080 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:28 ====
+==== 2025-12-13 03:13:05 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=19336 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=14180 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:29 ====
+==== 2025-12-13 03:13:06 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=19436 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=14280 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:29 ====
+==== 2025-12-13 03:13:06 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=19536 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=14380 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:29 ====
+==== 2025-12-13 03:13:06 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=19636 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=14480 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:29 ====
+==== 2025-12-13 03:13:06 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=19736 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=14580 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:29 ====
+==== 2025-12-13 03:13:06 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=19836 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=14680 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:29 ====
+==== 2025-12-13 03:13:06 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=19936 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=14781 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:29 ====
+==== 2025-12-13 03:13:06 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=20036 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=14881 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:29 ====
+==== 2025-12-13 03:13:06 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=20136 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=14981 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:29 ====
+==== 2025-12-13 03:13:06 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=20236 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=15081 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:29 ====
+==== 2025-12-13 03:13:07 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=20336 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=15181 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:30 ====
+==== 2025-12-13 03:13:07 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=20436 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=15281 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:30 ====
+==== 2025-12-13 03:13:07 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=20536 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=15381 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:30 ====
+==== 2025-12-13 03:13:07 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=20636 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=15481 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:30 ====
+==== 2025-12-13 03:13:07 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=20737 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=15581 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:41 ====
+==== 2025-12-13 03:13:07 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=6824 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=15681 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:41 ====
+==== 2025-12-13 03:13:07 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=6952 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=15781 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:41 ====
+==== 2025-12-13 03:13:07 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=7058 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=15882 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:41 ====
+==== 2025-12-13 03:13:07 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=7158 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=15982 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:41 ====
+==== 2025-12-13 03:13:07 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=7258 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=16082 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:41 ====
+==== 2025-12-13 03:13:08 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=7358 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=16182 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:41 ====
+==== 2025-12-13 03:13:08 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=7459 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=16282 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:41 ====
+==== 2025-12-13 03:13:08 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=7559 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=16382 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:42 ====
+==== 2025-12-13 03:13:08 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=7659 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=16482 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:42 ====
+==== 2025-12-13 03:13:08 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=7759 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=16582 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:42 ====
+==== 2025-12-13 03:13:08 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=7859 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=16683 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:42 ====
+==== 2025-12-13 03:13:08 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=7959 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=16783 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:42 ====
+==== 2025-12-13 03:13:08 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=8059 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=16866 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:42 ====
+==== 2025-12-13 03:13:08 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=8159 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=16966 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:42 ====
+==== 2025-12-13 03:13:08 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=8259 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=17066 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:42 ====
+==== 2025-12-13 03:13:08 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=8359 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=17166 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:42 ====
+==== 2025-12-13 03:13:09 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=8459 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=17266 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:42 ====
+==== 2025-12-13 03:13:09 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=8559 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=17366 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:43 ====
+==== 2025-12-13 03:13:09 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=8659 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=17467 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:43 ====
+==== 2025-12-13 03:13:09 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=8760 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=17567 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:43 ====
+==== 2025-12-13 03:13:09 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=8860 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=17667 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:43 ====
+==== 2025-12-13 03:13:09 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=8960 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=17767 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:43 ====
+==== 2025-12-13 03:13:09 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=9060 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=17867 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:43 ====
+==== 2025-12-13 03:13:09 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=9160 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=17967 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:43 ====
+==== 2025-12-13 03:13:09 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=9260 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=18067 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:43 ====
+==== 2025-12-13 03:13:09 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=9360 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=18167 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:43 ====
+==== 2025-12-13 03:13:10 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=9460 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=18267 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:43 ====
+==== 2025-12-13 03:13:10 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=9560 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=18367 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:44 ====
+==== 2025-12-13 03:13:10 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=9660 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=18467 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:44 ====
+==== 2025-12-13 03:13:10 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=9760 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=18568 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:44 ====
+==== 2025-12-13 03:13:10 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=9861 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=18668 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:44 ====
+==== 2025-12-13 03:13:10 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=9961 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=18768 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:44 ====
+==== 2025-12-13 03:13:10 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=10061 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=18868 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:44 ====
+==== 2025-12-13 03:13:10 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=10161 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=18968 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:44 ====
+==== 2025-12-13 03:13:10 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=10261 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=19068 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:44 ====
+==== 2025-12-13 03:13:10 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=10344 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=19168 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:44 ====
+==== 2025-12-13 03:13:11 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=10444 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=19268 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:44 ====
+==== 2025-12-13 03:13:11 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=10544 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=19368 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:45 ====
+==== 2025-12-13 03:13:11 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=10645 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=19468 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:45 ====
+==== 2025-12-13 03:13:11 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=10745 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=19569 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:45 ====
+==== 2025-12-13 03:13:11 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=10845 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=19669 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:45 ====
+==== 2025-12-13 03:13:11 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=10945 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=19769 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:45 ====
+==== 2025-12-13 03:13:11 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=11045 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=19869 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:45 ====
+==== 2025-12-13 03:13:11 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=11145 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=19969 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:45 ====
+==== 2025-12-13 03:13:11 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=11245 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=20069 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:45 ====
+==== 2025-12-13 03:13:12 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=11345 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=20169 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:45 ====
+==== 2025-12-13 03:13:12 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=11445 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=20369 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:45 ====
+==== 2025-12-13 03:13:12 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=11546 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=20469 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:46 ====
+==== 2025-12-13 03:13:12 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=11646 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=20570 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:46 ====
+==== 2025-12-13 03:13:12 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=11746 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=20670 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:46 ====
+==== 2025-12-13 03:13:12 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=11847 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=20770 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:46 ====
+==== 2025-12-13 03:13:12 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=11948 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=20870 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:46 ====
+==== 2025-12-13 03:13:12 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=12150 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=20970 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:46 ====
+==== 2025-12-13 03:13:12 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=12250 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=21070 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:46 ====
+==== 2025-12-13 03:13:12 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=12350 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=21170 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:46 ====
+==== 2025-12-13 03:13:13 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=12450 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=21270 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:46 ====
+==== 2025-12-13 03:13:13 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=12550 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=21370 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:47 ====
+==== 2025-12-13 03:13:13 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=12650 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=21470 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:47 ====
+==== 2025-12-13 03:13:13 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=12750 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=21570 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:47 ====
+==== 2025-12-13 03:13:13 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=12850 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=21671 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:51:47 ====
+==== 2025-12-13 03:13:13 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=12950 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=21771 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:09 ====
+==== 2025-12-13 03:13:13 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=12983 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=21871 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:09 ====
+==== 2025-12-13 03:13:13 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=13083 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=21971 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:09 ====
+==== 2025-12-13 03:13:13 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=13183 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=22071 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:10 ====
+==== 2025-12-13 03:13:13 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=13283 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=22171 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:10 ====
+==== 2025-12-13 03:13:14 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=13383 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=22271 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:10 ====
+==== 2025-12-13 03:13:14 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=22371 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:10 ====
+==== 2025-12-13 03:13:14 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=22471 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:10 ====
+==== 2025-12-13 03:13:14 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=22571 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:10 ====
+==== 2025-12-13 03:13:14 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=22671 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:10 ====
+==== 2025-12-13 03:13:14 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=22772 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:10 ====
+==== 2025-12-13 03:13:14 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=22872 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:10 ====
+==== 2025-12-13 03:13:14 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=22972 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:11 ====
+==== 2025-12-13 03:13:14 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=23072 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:11 ====
+==== 2025-12-13 03:13:15 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=23172 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:11 ====
+==== 2025-12-13 03:13:15 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=23272 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:11 ====
+==== 2025-12-13 03:13:15 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=23372 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:11 ====
+==== 2025-12-13 03:13:15 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=23472 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:11 ====
+==== 2025-12-13 03:13:15 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=23572 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:11 ====
+==== 2025-12-13 03:13:15 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=23673 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:11 ====
+==== 2025-12-13 03:13:15 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=23773 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:11 ====
+==== 2025-12-13 03:13:15 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=23873 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:11 ====
+==== 2025-12-13 03:13:15 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=23973 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:12 ====
+==== 2025-12-13 03:13:15 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=24073 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:12 ====
+==== 2025-12-13 03:13:16 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=24173 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:12 ====
+==== 2025-12-13 03:13:16 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=24274 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:12 ====
+==== 2025-12-13 03:13:16 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=24374 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:12 ====
+==== 2025-12-13 03:13:16 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=24474 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:12 ====
+==== 2025-12-13 03:13:16 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=24574 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:12 ====
+==== 2025-12-13 03:13:16 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=24674 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:12 ====
+==== 2025-12-13 03:13:16 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=24774 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:12 ====
+==== 2025-12-13 03:13:16 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=24874 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:12 ====
+==== 2025-12-13 03:13:16 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=24974 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:13 ====
+==== 2025-12-13 03:13:16 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=25074 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:13 ====
+==== 2025-12-13 03:13:16 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=25174 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:13 ====
+==== 2025-12-13 03:13:17 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=25274 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:13 ====
+==== 2025-12-13 03:13:17 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=25374 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:13 ====
+==== 2025-12-13 03:13:17 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=25474 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:13 ====
+==== 2025-12-13 03:13:17 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=25575 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:13 ====
+==== 2025-12-13 03:13:17 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=25675 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:13 ====
+==== 2025-12-13 03:13:17 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=25775 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:13 ====
+==== 2025-12-13 03:13:17 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=25875 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:14 ====
+==== 2025-12-13 03:13:17 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=25975 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:14 ====
+==== 2025-12-13 03:13:17 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=26075 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:14 ====
+==== 2025-12-13 03:13:18 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=26175 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:14 ====
+==== 2025-12-13 03:13:18 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=26275 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:14 ====
+==== 2025-12-13 03:13:18 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=26375 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:14 ====
+==== 2025-12-13 03:13:18 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=26475 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:14 ====
+==== 2025-12-13 03:13:18 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=26575 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:14 ====
+==== 2025-12-13 03:13:18 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=26675 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:14 ====
+==== 2025-12-13 03:13:18 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=26776 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:14 ====
+==== 2025-12-13 03:13:18 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=26876 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:14 ====
+==== 2025-12-13 03:13:18 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=26976 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:15 ====
+==== 2025-12-13 03:13:18 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=27076 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:15 ====
+==== 2025-12-13 03:13:18 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=27176 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:15 ====
+==== 2025-12-13 03:13:19 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=27276 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:15 ====
+==== 2025-12-13 03:13:19 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=27376 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:15 ====
+==== 2025-12-13 03:13:19 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=27476 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:15 ====
+==== 2025-12-13 03:13:19 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=27576 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:15 ====
+==== 2025-12-13 03:13:19 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=27676 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:15 ====
+==== 2025-12-13 03:13:19 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=27777 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:15 ====
+==== 2025-12-13 03:13:19 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=27877 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:15 ====
+==== 2025-12-13 03:13:19 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=27977 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:16 ====
+==== 2025-12-13 03:13:19 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=28077 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:16 ====
+==== 2025-12-13 03:13:19 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=28177 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:16 ====
+==== 2025-12-13 03:13:20 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=28277 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:16 ====
+==== 2025-12-13 03:13:20 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=28377 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:16 ====
+==== 2025-12-13 03:13:20 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=28477 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:16 ====
+==== 2025-12-13 03:13:20 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=28577 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:16 ====
+==== 2025-12-13 03:13:20 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=28677 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:16 ====
+==== 2025-12-13 03:13:20 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=28777 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:16 ====
+==== 2025-12-13 03:13:20 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=28878 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:16 ====
+==== 2025-12-13 03:13:20 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=28978 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:17 ====
+==== 2025-12-13 03:13:20 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=29078 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:17 ====
+==== 2025-12-13 03:13:21 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=29178 ms, Pos=1, Lap#=1, PitStatus=0
 
-==== 2025-12-12 20:52:17 ====
+==== 2025-12-13 03:13:21 ====
 Lap Data:
-Car 0: Last=90186 ms, Current=0 ms, Pos=1, Lap#=8, PitStatus=0
+Car 0: Last=0 ms, Current=29278 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:21 ====
+Lap Data:
+Car 0: Last=0 ms, Current=29378 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:21 ====
+Lap Data:
+Car 0: Last=0 ms, Current=29478 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:21 ====
+Lap Data:
+Car 0: Last=0 ms, Current=29578 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:21 ====
+Lap Data:
+Car 0: Last=0 ms, Current=29678 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:21 ====
+Lap Data:
+Car 0: Last=0 ms, Current=29778 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:21 ====
+Lap Data:
+Car 0: Last=0 ms, Current=29878 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:21 ====
+Lap Data:
+Car 0: Last=0 ms, Current=29979 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:21 ====
+Lap Data:
+Car 0: Last=0 ms, Current=30079 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:22 ====
+Lap Data:
+Car 0: Last=0 ms, Current=30279 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:22 ====
+Lap Data:
+Car 0: Last=0 ms, Current=30379 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:22 ====
+Lap Data:
+Car 0: Last=0 ms, Current=30479 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:22 ====
+Lap Data:
+Car 0: Last=0 ms, Current=30579 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:22 ====
+Lap Data:
+Car 0: Last=0 ms, Current=30679 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:22 ====
+Lap Data:
+Car 0: Last=0 ms, Current=30779 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:22 ====
+Lap Data:
+Car 0: Last=0 ms, Current=30880 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:22 ====
+Lap Data:
+Car 0: Last=0 ms, Current=30980 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:22 ====
+Lap Data:
+Car 0: Last=0 ms, Current=31080 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:22 ====
+Lap Data:
+Car 0: Last=0 ms, Current=31180 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:23 ====
+Lap Data:
+Car 0: Last=0 ms, Current=31280 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:23 ====
+Lap Data:
+Car 0: Last=0 ms, Current=31380 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:23 ====
+Lap Data:
+Car 0: Last=0 ms, Current=31480 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:23 ====
+Lap Data:
+Car 0: Last=0 ms, Current=31580 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:23 ====
+Lap Data:
+Car 0: Last=0 ms, Current=31680 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:23 ====
+Lap Data:
+Car 0: Last=0 ms, Current=31780 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:23 ====
+Lap Data:
+Car 0: Last=0 ms, Current=31881 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:23 ====
+Lap Data:
+Car 0: Last=0 ms, Current=31981 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:23 ====
+Lap Data:
+Car 0: Last=0 ms, Current=32081 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:24 ====
+Lap Data:
+Car 0: Last=0 ms, Current=32181 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:24 ====
+Lap Data:
+Car 0: Last=0 ms, Current=32281 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:24 ====
+Lap Data:
+Car 0: Last=0 ms, Current=32381 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:24 ====
+Lap Data:
+Car 0: Last=0 ms, Current=32481 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:24 ====
+Lap Data:
+Car 0: Last=0 ms, Current=32581 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:24 ====
+Lap Data:
+Car 0: Last=0 ms, Current=32681 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:24 ====
+Lap Data:
+Car 0: Last=0 ms, Current=32781 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:24 ====
+Lap Data:
+Car 0: Last=0 ms, Current=32881 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:24 ====
+Lap Data:
+Car 0: Last=0 ms, Current=32981 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:24 ====
+Lap Data:
+Car 0: Last=0 ms, Current=33082 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:25 ====
+Lap Data:
+Car 0: Last=0 ms, Current=33182 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:25 ====
+Lap Data:
+Car 0: Last=0 ms, Current=33265 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:25 ====
+Lap Data:
+Car 0: Last=0 ms, Current=33382 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:25 ====
+Lap Data:
+Car 0: Last=0 ms, Current=33465 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:25 ====
+Lap Data:
+Car 0: Last=0 ms, Current=33565 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:25 ====
+Lap Data:
+Car 0: Last=0 ms, Current=33666 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:25 ====
+Lap Data:
+Car 0: Last=0 ms, Current=33766 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:25 ====
+Lap Data:
+Car 0: Last=0 ms, Current=33866 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:25 ====
+Lap Data:
+Car 0: Last=0 ms, Current=33966 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:25 ====
+Lap Data:
+Car 0: Last=0 ms, Current=34066 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:25 ====
+Lap Data:
+Car 0: Last=0 ms, Current=34166 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:26 ====
+Lap Data:
+Car 0: Last=0 ms, Current=34266 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:26 ====
+Lap Data:
+Car 0: Last=0 ms, Current=34366 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:26 ====
+Lap Data:
+Car 0: Last=0 ms, Current=34466 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:26 ====
+Lap Data:
+Car 0: Last=0 ms, Current=34559 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:26 ====
+Lap Data:
+Car 0: Last=0 ms, Current=34659 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:26 ====
+Lap Data:
+Car 0: Last=0 ms, Current=34759 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:26 ====
+Lap Data:
+Car 0: Last=0 ms, Current=34859 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:26 ====
+Lap Data:
+Car 0: Last=0 ms, Current=34959 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:26 ====
+Lap Data:
+Car 0: Last=0 ms, Current=35160 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:27 ====
+Lap Data:
+Car 0: Last=0 ms, Current=35260 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:27 ====
+Lap Data:
+Car 0: Last=0 ms, Current=35360 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:27 ====
+Lap Data:
+Car 0: Last=0 ms, Current=35460 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:27 ====
+Lap Data:
+Car 0: Last=0 ms, Current=35560 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:27 ====
+Lap Data:
+Car 0: Last=0 ms, Current=35660 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:27 ====
+Lap Data:
+Car 0: Last=0 ms, Current=35760 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:27 ====
+Lap Data:
+Car 0: Last=0 ms, Current=35860 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:27 ====
+Lap Data:
+Car 0: Last=0 ms, Current=35960 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:27 ====
+Lap Data:
+Car 0: Last=0 ms, Current=36060 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:28 ====
+Lap Data:
+Car 0: Last=0 ms, Current=36161 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:28 ====
+Lap Data:
+Car 0: Last=0 ms, Current=36261 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:28 ====
+Lap Data:
+Car 0: Last=0 ms, Current=36361 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:28 ====
+Lap Data:
+Car 0: Last=0 ms, Current=36461 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:28 ====
+Lap Data:
+Car 0: Last=0 ms, Current=36561 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:28 ====
+Lap Data:
+Car 0: Last=0 ms, Current=36661 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:28 ====
+Lap Data:
+Car 0: Last=0 ms, Current=36761 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:28 ====
+Lap Data:
+Car 0: Last=0 ms, Current=36861 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:28 ====
+Lap Data:
+Car 0: Last=0 ms, Current=36962 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:28 ====
+Lap Data:
+Car 0: Last=0 ms, Current=37062 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:28 ====
+Lap Data:
+Car 0: Last=0 ms, Current=37163 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:29 ====
+Lap Data:
+Car 0: Last=0 ms, Current=37263 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:29 ====
+Lap Data:
+Car 0: Last=0 ms, Current=37363 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:29 ====
+Lap Data:
+Car 0: Last=0 ms, Current=37463 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:29 ====
+Lap Data:
+Car 0: Last=0 ms, Current=37563 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:29 ====
+Lap Data:
+Car 0: Last=0 ms, Current=37663 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:29 ====
+Lap Data:
+Car 0: Last=0 ms, Current=37763 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:29 ====
+Lap Data:
+Car 0: Last=0 ms, Current=37863 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:29 ====
+Lap Data:
+Car 0: Last=0 ms, Current=37963 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:29 ====
+Lap Data:
+Car 0: Last=0 ms, Current=38063 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:29 ====
+Lap Data:
+Car 0: Last=0 ms, Current=38163 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:30 ====
+Lap Data:
+Car 0: Last=0 ms, Current=38263 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:30 ====
+Lap Data:
+Car 0: Last=0 ms, Current=38363 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:30 ====
+Lap Data:
+Car 0: Last=0 ms, Current=38463 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:30 ====
+Lap Data:
+Car 0: Last=0 ms, Current=38563 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:30 ====
+Lap Data:
+Car 0: Last=0 ms, Current=38663 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:30 ====
+Lap Data:
+Car 0: Last=0 ms, Current=38763 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:30 ====
+Lap Data:
+Car 0: Last=0 ms, Current=38863 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:30 ====
+Lap Data:
+Car 0: Last=0 ms, Current=38963 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:30 ====
+Lap Data:
+Car 0: Last=0 ms, Current=39064 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:30 ====
+Lap Data:
+Car 0: Last=0 ms, Current=39164 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:31 ====
+Lap Data:
+Car 0: Last=0 ms, Current=39264 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:31 ====
+Lap Data:
+Car 0: Last=0 ms, Current=39364 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:31 ====
+Lap Data:
+Car 0: Last=0 ms, Current=39464 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:31 ====
+Lap Data:
+Car 0: Last=0 ms, Current=39564 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:31 ====
+Lap Data:
+Car 0: Last=0 ms, Current=39664 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:31 ====
+Lap Data:
+Car 0: Last=0 ms, Current=39764 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:31 ====
+Lap Data:
+Car 0: Last=0 ms, Current=39864 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:31 ====
+Lap Data:
+Car 0: Last=0 ms, Current=39964 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:31 ====
+Lap Data:
+Car 0: Last=0 ms, Current=40064 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:31 ====
+Lap Data:
+Car 0: Last=0 ms, Current=40164 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:32 ====
+Lap Data:
+Car 0: Last=0 ms, Current=40264 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:32 ====
+Lap Data:
+Car 0: Last=0 ms, Current=40365 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:32 ====
+Lap Data:
+Car 0: Last=0 ms, Current=40465 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:32 ====
+Lap Data:
+Car 0: Last=0 ms, Current=40565 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:32 ====
+Lap Data:
+Car 0: Last=0 ms, Current=40665 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:32 ====
+Lap Data:
+Car 0: Last=0 ms, Current=40765 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:32 ====
+Lap Data:
+Car 0: Last=0 ms, Current=40865 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:32 ====
+Lap Data:
+Car 0: Last=0 ms, Current=40965 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:32 ====
+Lap Data:
+Car 0: Last=0 ms, Current=41065 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:32 ====
+Lap Data:
+Car 0: Last=0 ms, Current=41166 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:33 ====
+Lap Data:
+Car 0: Last=0 ms, Current=41266 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:33 ====
+Lap Data:
+Car 0: Last=0 ms, Current=41366 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:33 ====
+Lap Data:
+Car 0: Last=0 ms, Current=41466 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:33 ====
+Lap Data:
+Car 0: Last=0 ms, Current=41566 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:33 ====
+Lap Data:
+Car 0: Last=0 ms, Current=41666 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:33 ====
+Lap Data:
+Car 0: Last=0 ms, Current=41766 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:33 ====
+Lap Data:
+Car 0: Last=0 ms, Current=41866 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:33 ====
+Lap Data:
+Car 0: Last=0 ms, Current=41966 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:33 ====
+Lap Data:
+Car 0: Last=0 ms, Current=42066 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:33 ====
+Lap Data:
+Car 0: Last=0 ms, Current=42166 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:34 ====
+Lap Data:
+Car 0: Last=0 ms, Current=42266 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:34 ====
+Lap Data:
+Car 0: Last=0 ms, Current=42367 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:34 ====
+Lap Data:
+Car 0: Last=0 ms, Current=42467 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:34 ====
+Lap Data:
+Car 0: Last=0 ms, Current=42567 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:34 ====
+Lap Data:
+Car 0: Last=0 ms, Current=42667 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:34 ====
+Lap Data:
+Car 0: Last=0 ms, Current=42767 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:34 ====
+Lap Data:
+Car 0: Last=0 ms, Current=42867 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:34 ====
+Lap Data:
+Car 0: Last=0 ms, Current=42967 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:34 ====
+Lap Data:
+Car 0: Last=0 ms, Current=43067 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:34 ====
+Lap Data:
+Car 0: Last=0 ms, Current=43167 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:35 ====
+Lap Data:
+Car 0: Last=0 ms, Current=43267 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:35 ====
+Lap Data:
+Car 0: Last=0 ms, Current=43368 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:35 ====
+Lap Data:
+Car 0: Last=0 ms, Current=43468 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:35 ====
+Lap Data:
+Car 0: Last=0 ms, Current=43568 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:35 ====
+Lap Data:
+Car 0: Last=0 ms, Current=43668 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:35 ====
+Lap Data:
+Car 0: Last=0 ms, Current=43768 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:35 ====
+Lap Data:
+Car 0: Last=0 ms, Current=43868 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:35 ====
+Lap Data:
+Car 0: Last=0 ms, Current=43968 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:35 ====
+Lap Data:
+Car 0: Last=0 ms, Current=44068 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:35 ====
+Lap Data:
+Car 0: Last=0 ms, Current=44168 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:36 ====
+Lap Data:
+Car 0: Last=0 ms, Current=44269 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:36 ====
+Lap Data:
+Car 0: Last=0 ms, Current=44369 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:36 ====
+Lap Data:
+Car 0: Last=0 ms, Current=44569 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:36 ====
+Lap Data:
+Car 0: Last=0 ms, Current=44669 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:36 ====
+Lap Data:
+Car 0: Last=0 ms, Current=44769 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:36 ====
+Lap Data:
+Car 0: Last=0 ms, Current=44869 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:36 ====
+Lap Data:
+Car 0: Last=0 ms, Current=44969 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:36 ====
+Lap Data:
+Car 0: Last=0 ms, Current=45069 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:37 ====
+Lap Data:
+Car 0: Last=0 ms, Current=45169 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:37 ====
+Lap Data:
+Car 0: Last=0 ms, Current=45270 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:37 ====
+Lap Data:
+Car 0: Last=0 ms, Current=45370 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:37 ====
+Lap Data:
+Car 0: Last=0 ms, Current=45470 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:37 ====
+Lap Data:
+Car 0: Last=0 ms, Current=45570 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:37 ====
+Lap Data:
+Car 0: Last=0 ms, Current=45671 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:37 ====
+Lap Data:
+Car 0: Last=0 ms, Current=45771 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:37 ====
+Lap Data:
+Car 0: Last=0 ms, Current=45871 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:37 ====
+Lap Data:
+Car 0: Last=0 ms, Current=45971 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:37 ====
+Lap Data:
+Car 0: Last=0 ms, Current=46071 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:38 ====
+Lap Data:
+Car 0: Last=0 ms, Current=46171 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:38 ====
+Lap Data:
+Car 0: Last=0 ms, Current=46271 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:38 ====
+Lap Data:
+Car 0: Last=0 ms, Current=46371 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:38 ====
+Lap Data:
+Car 0: Last=0 ms, Current=46471 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:38 ====
+Lap Data:
+Car 0: Last=0 ms, Current=46571 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:38 ====
+Lap Data:
+Car 0: Last=0 ms, Current=46671 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:38 ====
+Lap Data:
+Car 0: Last=0 ms, Current=46771 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:38 ====
+Lap Data:
+Car 0: Last=0 ms, Current=46871 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:38 ====
+Lap Data:
+Car 0: Last=0 ms, Current=46971 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:38 ====
+Lap Data:
+Car 0: Last=0 ms, Current=47071 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:39 ====
+Lap Data:
+Car 0: Last=0 ms, Current=47171 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:39 ====
+Lap Data:
+Car 0: Last=0 ms, Current=47271 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:39 ====
+Lap Data:
+Car 0: Last=0 ms, Current=47372 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:39 ====
+Lap Data:
+Car 0: Last=0 ms, Current=47472 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:39 ====
+Lap Data:
+Car 0: Last=0 ms, Current=47572 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:39 ====
+Lap Data:
+Car 0: Last=0 ms, Current=47672 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:39 ====
+Lap Data:
+Car 0: Last=0 ms, Current=47772 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:39 ====
+Lap Data:
+Car 0: Last=0 ms, Current=47872 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:39 ====
+Lap Data:
+Car 0: Last=0 ms, Current=47972 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:39 ====
+Lap Data:
+Car 0: Last=0 ms, Current=48072 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:39 ====
+Lap Data:
+Car 0: Last=0 ms, Current=48173 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:40 ====
+Lap Data:
+Car 0: Last=0 ms, Current=48273 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:40 ====
+Lap Data:
+Car 0: Last=0 ms, Current=48373 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:40 ====
+Lap Data:
+Car 0: Last=0 ms, Current=48473 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:40 ====
+Lap Data:
+Car 0: Last=0 ms, Current=48573 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:40 ====
+Lap Data:
+Car 0: Last=0 ms, Current=48673 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:40 ====
+Lap Data:
+Car 0: Last=0 ms, Current=48773 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:40 ====
+Lap Data:
+Car 0: Last=0 ms, Current=48873 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:40 ====
+Lap Data:
+Car 0: Last=0 ms, Current=48973 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:40 ====
+Lap Data:
+Car 0: Last=0 ms, Current=49073 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:41 ====
+Lap Data:
+Car 0: Last=0 ms, Current=49173 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:41 ====
+Lap Data:
+Car 0: Last=0 ms, Current=49273 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:41 ====
+Lap Data:
+Car 0: Last=0 ms, Current=49373 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:41 ====
+Lap Data:
+Car 0: Last=0 ms, Current=49474 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:41 ====
+Lap Data:
+Car 0: Last=0 ms, Current=49574 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:41 ====
+Lap Data:
+Car 0: Last=0 ms, Current=49674 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:41 ====
+Lap Data:
+Car 0: Last=0 ms, Current=49757 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:41 ====
+Lap Data:
+Car 0: Last=0 ms, Current=49874 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:41 ====
+Lap Data:
+Car 0: Last=0 ms, Current=49957 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:41 ====
+Lap Data:
+Car 0: Last=0 ms, Current=50074 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:41 ====
+Lap Data:
+Car 0: Last=0 ms, Current=50158 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:42 ====
+Lap Data:
+Car 0: Last=0 ms, Current=50258 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:42 ====
+Lap Data:
+Car 0: Last=0 ms, Current=50358 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:42 ====
+Lap Data:
+Car 0: Last=0 ms, Current=50458 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:42 ====
+Lap Data:
+Car 0: Last=0 ms, Current=50558 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:42 ====
+Lap Data:
+Car 0: Last=0 ms, Current=50658 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:42 ====
+Lap Data:
+Car 0: Last=0 ms, Current=50758 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:42 ====
+Lap Data:
+Car 0: Last=0 ms, Current=50858 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:42 ====
+Lap Data:
+Car 0: Last=0 ms, Current=50959 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:42 ====
+Lap Data:
+Car 0: Last=0 ms, Current=51059 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:42 ====
+Lap Data:
+Car 0: Last=0 ms, Current=51159 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:43 ====
+Lap Data:
+Car 0: Last=0 ms, Current=51259 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:43 ====
+Lap Data:
+Car 0: Last=0 ms, Current=51359 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:43 ====
+Lap Data:
+Car 0: Last=0 ms, Current=51459 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:43 ====
+Lap Data:
+Car 0: Last=0 ms, Current=51559 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:43 ====
+Lap Data:
+Car 0: Last=0 ms, Current=51659 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:43 ====
+Lap Data:
+Car 0: Last=0 ms, Current=51759 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:43 ====
+Lap Data:
+Car 0: Last=0 ms, Current=51859 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:43 ====
+Lap Data:
+Car 0: Last=0 ms, Current=51960 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:43 ====
+Lap Data:
+Car 0: Last=0 ms, Current=52060 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:43 ====
+Lap Data:
+Car 0: Last=0 ms, Current=52160 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:44 ====
+Lap Data:
+Car 0: Last=0 ms, Current=52260 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:44 ====
+Lap Data:
+Car 0: Last=0 ms, Current=52360 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:44 ====
+Lap Data:
+Car 0: Last=0 ms, Current=52460 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:44 ====
+Lap Data:
+Car 0: Last=0 ms, Current=52560 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:44 ====
+Lap Data:
+Car 0: Last=0 ms, Current=52660 ms, Pos=1, Lap#=1, PitStatus=0
+
+==== 2025-12-13 03:13:44 ====
+Lap Data:
+Car 0: Last=0 ms, Current=52760 ms, Pos=1, Lap#=1, PitStatus=0
 
