@@ -13,4 +13,4 @@ bin/
 .vscode/
 telemetry_data/
 telemetry_data/*.txt
-tools/track_calibration
+tools/track_calibration/*.cpp
