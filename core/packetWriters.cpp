@@ -27,14 +27,14 @@ void writeCarTelemetryPacket(const uint8_t* data, std::ofstream& file) {
         sample.steer = carData.m_steer;
         sample.timestampMs = static_cast<uint64_t>(packet->m_header.m_sessionTime*1000);
 
-    // Populate extended telemetry fields
-    sample.speed = carData.m_speed;
-    sample.engineRPM = carData.m_engineRPM;
-    // Store clutch as an integer percentage to avoid noisy floating prints
-    sample.clutch = static_cast<uint8_t>(static_cast<int>(carData.m_clutch));
-    sample.gear = carData.m_gear;
-    sample.drs = carData.m_drs;
-    sample.revLightsPercent = carData.m_revLightsPercent;
+        // Populate extended telemetry fields
+        sample.speed = carData.m_speed;
+        sample.engineRPM = carData.m_engineRPM;
+        // Store clutch as an integer percentage to avoid noisy floating prints
+        sample.clutch = static_cast<uint8_t>(static_cast<int>(carData.m_clutch));
+        sample.gear = carData.m_gear;
+        sample.drs = carData.m_drs;
+        sample.revLightsPercent = carData.m_revLightsPercent;
 
         g_liveInputs.push(sample);
 
@@ -170,26 +170,30 @@ void writeMotionPacket(const uint8_t* data, std::ofstream& file) {
 
     const PacketMotionData* packet = reinterpret_cast<const PacketMotionData*>(data);
 
-    for (int i = 0; i < 22; ++i) {
-        if (i != packet->m_header.m_playerCarIndex) continue;
-        const CarMotionData& motionData = packet->m_carMotionData[i];
-        file << "Car " << i << ":\n";
-        file << "  Position: (" << std::fixed << std::setprecision(2) 
-             << motionData.m_worldPositionX << ", "
-             << motionData.m_worldPositionY << ", "
-             << motionData.m_worldPositionZ << ") m\n";
-        file << "  Velocity: (" << std::setprecision(2)
-             << motionData.m_worldVelocityX << ", "
-             << motionData.m_worldVelocityY << ", "
-             << motionData.m_worldVelocityZ << ") m/s\n";
-        file << "  G-Forces - Lateral: " << std::setprecision(3) << motionData.m_gForceLateral
-             << ", Longitudinal: " << motionData.m_gForceLongitudinal
-             << ", Vertical: " << motionData.m_gForceVertical << "\n";
-        file << "  Rotation (rad) - Yaw: " << std::setprecision(4) << motionData.m_yaw
-             << ", Pitch: " << motionData.m_pitch
-             << ", Roll: " << motionData.m_roll << "\n";
-        file << "\n";
-    }
+    const CarMotionData& motionData = packet->m_carMotionData[packet->m_header.m_playerCarIndex];
+
+    g_livePositions.push({
+        motionData.m_worldPositionX,
+        motionData.m_worldPositionY,
+        motionData.m_worldPositionZ,
+        static_cast<uint64_t>(packet->m_header.m_sessionTime * 1000)
+    });
+
+    file << "  Position: (" << std::fixed << std::setprecision(2) 
+            << motionData.m_worldPositionX << ", "
+            << motionData.m_worldPositionY << ", "
+            << motionData.m_worldPositionZ << ") m\n";
+    file << "  Velocity: (" << std::setprecision(2)
+            << motionData.m_worldVelocityX << ", "
+            << motionData.m_worldVelocityY << ", "
+            << motionData.m_worldVelocityZ << ") m/s\n";
+    file << "  G-Forces - Lateral: " << std::setprecision(3) << motionData.m_gForceLateral
+            << ", Longitudinal: " << motionData.m_gForceLongitudinal
+            << ", Vertical: " << motionData.m_gForceVertical << "\n";
+    file << "  Rotation (rad) - Yaw: " << std::setprecision(4) << motionData.m_yaw
+            << ", Pitch: " << motionData.m_pitch
+            << ", Roll: " << motionData.m_roll << "\n";
+    file << "\n";
 }
 
 void writeSessionPacket(const uint8_t* data, std::ofstream& file) {
@@ -204,6 +208,10 @@ void writeSessionPacket(const uint8_t* data, std::ofstream& file) {
     file << "  Session Time Left: " << packet->m_sessionTimeLeft << " s\n";
     file << "  Session Duration: " << packet->m_sessionDuration << " s\n";
     file << "  Pit Speed Limit: " << static_cast<int>(packet->m_pitSpeedLimit) << " km/h\n";
+    file << "  Track ID: " << static_cast<int>(packet->m_trackId) << "\n";
+    if(packet->m_trackId != g_staticInfo.track_id) {
+        g_staticInfo.track_id = packet->m_trackId;
+    }
 }
 
 void writeLapDataPacket(const uint8_t* data, std::ofstream& file) {

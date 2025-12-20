@@ -21,6 +21,18 @@ Visualizer::~Visualizer() {
     shutdown();
 }
 
+std::vector<Vec3> loadReferenceLap(int trackId) {
+    if (trackId < 0) {
+        return {};
+    }
+    ReferenceTracker tracker;
+    if (tracker.loadReferenceLap(trackId)) {
+        return tracker.getLapPositions();
+    } else {
+        return {};
+    }
+}
+
 bool Visualizer::init() {
     // Initialize GLFW
     if (!glfwInit()) {
@@ -60,6 +72,13 @@ bool Visualizer::init() {
     ImGui_ImplGlfw_InitForOpenGL(window, true);
     ImGui_ImplOpenGL3_Init(glsl_version);
 
+    // Load reference lap
+    std::vector<Vec3> loaded_reference = loadReferenceLap(g_staticInfo.track_id);
+    if (loaded_reference.size() > 0) {
+        have_loaded_reference = true;
+        referenceLap_ = loaded_reference;
+        std::cout << "Loaded reference lap for track " << g_staticInfo.track_id << "\n";
+    }
     return true;
 }
 
@@ -97,6 +116,71 @@ void Visualizer::updatePlotData() {
         m_gearHistory.push_back(static_cast<int>(samples[i].gear));
         m_timeHistory.push_back(samples[i].timestampMs / 1000.0);  // Convert ms to seconds
     }
+}
+
+void Visualizer::drawMiniMap() {
+    if (!have_loaded_reference){
+        std::vector<Vec3> loaded_reference = loadReferenceLap(g_staticInfo.track_id);
+        if (loaded_reference.size() > 0) {
+            have_loaded_reference = true;
+            referenceLap_ = loaded_reference;
+            std::cout << "Loaded reference lap for track " << g_staticInfo.track_id << "\n";
+        } else {
+            return;
+        }
+    }
+
+    ImGui::Begin("Mini Map");
+
+    static std::vector<float> xs, zs; // top-down XZ view
+    xs.resize(referenceLap_.size());
+    zs.resize(referenceLap_.size());
+
+    float minX = referenceLap_[0].x, maxX = referenceLap_[0].x;
+    float minZ = referenceLap_[0].z, maxZ = referenceLap_[0].z;
+
+    for (size_t i = 0; i < referenceLap_.size(); ++i) {
+        xs[i] = referenceLap_[i].x;
+        zs[i] = referenceLap_[i].z;
+
+        if (xs[i] < minX) minX = xs[i];
+        if (xs[i] > maxX) maxX = xs[i];
+        if (zs[i] < minZ) minZ = zs[i];
+        if (zs[i] > maxZ) maxZ = zs[i];
+    }
+
+    // Add 5% buffer around edges
+    float xBuffer = (maxX - minX) * 0.05f;
+    float zBuffer = (maxZ - minZ) * 0.05f;
+
+    if (ImPlot::BeginPlot("Track", ImVec2(300, 300),
+                          ImPlotFlags_NoLegend | ImPlotFlags_NoMouseText |
+                          ImPlotFlags_NoBoxSelect)) {
+
+        // Set axes limits with buffer
+        ImPlot::SetupAxisLimits(ImAxis_X1, minX - xBuffer, maxX + xBuffer);
+        ImPlot::SetupAxisLimits(ImAxis_Y1, minZ - zBuffer, maxZ + zBuffer);
+
+        // Remove tick labels/decorations
+        ImPlot::SetupAxis(ImAxis_X1, nullptr, ImPlotAxisFlags_NoTickLabels | ImPlotAxisFlags_NoDecorations);
+        ImPlot::SetupAxis(ImAxis_Y1, nullptr, ImPlotAxisFlags_NoTickLabels | ImPlotAxisFlags_NoDecorations);
+
+        // Plot thick line
+        ImPlot::PushStyleVar(ImPlotStyleVar_LineWeight, 8.0f); // much thicker
+        ImPlot::PlotLine("Reference Lap", xs.data(), zs.data(), (int)xs.size());
+        ImPlot::PopStyleVar();
+
+
+        LivePositionSample latest_position;
+        LiveTelemetry::peekLatestPosition(latest_position);
+        float carX = latest_position.worldX;
+        float carZ = latest_position.worldZ;
+        ImPlot::PlotScatter("Car Position", &carX, &carZ, 1);
+
+        ImPlot::EndPlot();
+    }
+
+    ImGui::End();
 }
 
 void Visualizer::drawUI() {
@@ -195,11 +279,13 @@ void Visualizer::drawUI() {
             }
 
             if (!gearUpX.empty()) {
-                ImPlot::SetNextMarkerStyle(ImPlotMarker_Square, 6, ImVec4(0.0f,0.8f,0.0f,1.0f));
+                ImVec4 upCol = ImVec4(0.0f, 1.0f, 0.0f, 1.0f);
+                ImPlot::SetNextMarkerStyle(ImPlotMarker_Square, 7, upCol);
                 ImPlot::PlotScatter("Upshift", gearUpX.data(), gearUpY.data(), (int)gearUpX.size());
             }
             if (!gearDownX.empty()) {
-                ImPlot::SetNextMarkerStyle(ImPlotMarker_Square, 6, ImVec4(1.0f,0.2f,0.2f,1.0f));
+                ImVec4 downCol = ImVec4(1.0f, 0.0f, 0.0f, 1.0f);
+                ImPlot::SetNextMarkerStyle(ImPlotMarker_Square, 7, downCol);
                 ImPlot::PlotScatter("Downshift", gearDownX.data(), gearDownY.data(), (int)gearDownX.size());
             }
         }
@@ -342,6 +428,8 @@ void Visualizer::drawUI() {
         ImGui::Text("Brake Max: %.2f%%", brakeMax * 100.0);
         ImGui::Text("Steer Range: [%.2f, %.2f]", steerMin, steerMax);
     }
+
+    drawMiniMap();
 
     ImGui::End();
 }

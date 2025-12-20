@@ -1,6 +1,7 @@
 #pragma once
 #include <vector>
 #include <cstddef>
+#include "ReferenceTracker.hpp"
 
 class Visualizer {
 public:
@@ -20,6 +21,7 @@ private:
     int m_windowWidth;
     int m_windowHeight;
     void* m_window;  // GLFWwindow*
+    bool have_loaded_reference = false;
 
     // Plot history buffers
     // Use double for all plot arrays so ImPlot can take xs and ys with the same type
@@ -31,8 +33,11 @@ private:
     std::vector<int> m_drsHistory;
     std::vector<int> m_gearHistory;
     
+    std::vector<Vec3> referenceLap_;
+    
     static constexpr size_t MAX_HISTORY = 512;
 
     void updatePlotData();
     void drawUI();
+    void drawMiniMap();
 };

@@ -1,6 +1,7 @@
 #pragma once
 #include <cstdint>
 #include "RingBuffer.hpp"
+#include "StaticInfo.hpp"
 
 struct LiveInputSample {
     // Basic inputs
@@ -18,12 +19,24 @@ struct LiveInputSample {
     uint8_t revLightsPercent; // 0-100
 };
 
+struct LivePositionSample {
+    float worldX;
+    float worldY;
+    float worldZ;
+    uint64_t timestampMs;
+};
+
 // The global ring buffer (size tunable)
 extern RingBuffer<LiveInputSample, 512> g_liveInputs;
+extern StaticInfo g_staticInfo;
+extern RingBuffer<LivePositionSample, 512> g_livePositions;
 
 class LiveTelemetry {
 public:
     static size_t copyHistory(LiveInputSample* out, size_t maxCount);
     // Return the most recent sample if available (does not copy history)
     static bool peekLatest(LiveInputSample& out);
+
+    static size_t copyPositionHistory(LivePositionSample* out, size_t maxCount);
+    static bool peekLatestPosition(LivePositionSample& out);
 };
